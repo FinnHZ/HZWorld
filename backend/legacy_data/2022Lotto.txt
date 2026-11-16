@@ -1,0 +1,840 @@
+*
+date,December 31st 2022
+weekDay,Saturday
+lotto,13;19;23;33;34;36
+bonus,4
+day,31st
+month,December
+year,2022
+*
+date,December 28th 2022
+weekDay,Wednesday
+lotto,1;3;11;27;33;37
+bonus,26
+day,28th
+month,December
+year,2022
+*
+date,December 24th 2022
+weekDay,Saturday
+lotto,2;3;4;19;30;31
+bonus,24
+day,24th
+month,December
+year,2022
+*
+date,December 21st 2022
+weekDay,Wednesday
+lotto,7;14;18;26;34;37
+bonus,35
+day,21st
+month,December
+year,2022
+*
+date,December 17th 2022
+weekDay,Saturday
+lotto,8;10;20;21;24;33
+bonus,23
+day,17th
+month,December
+year,2022
+*
+date,December 14th 2022
+weekDay,Wednesday
+lotto,9;22;26;31;32;33
+bonus,15
+day,14th
+month,December
+year,2022
+*
+date,December 10th 2022
+weekDay,Saturday
+lotto,5;7;9;19;24;36
+bonus,15
+day,10th
+month,December
+year,2022
+*
+date,December 7th 2022
+weekDay,Wednesday
+lotto,8;9;13;23;25;40
+bonus,12
+day,7th
+month,December
+year,2022
+*
+date,December 3rd 2022
+weekDay,Saturday
+lotto,1;9;12;19;21;33
+bonus,36
+day,3rd
+month,December
+year,2022
+*
+date,November 30th 2022
+weekDay,Wednesday
+lotto,4;8;10;12;21;28
+bonus,5
+day,30th
+month,November
+year,2022
+*
+date,November 26th 2022
+weekDay,Saturday
+lotto,3;5;27;29;31;38
+bonus,21
+day,26th
+month,November
+year,2022
+*
+date,November 23rd 2022
+weekDay,Wednesday
+lotto,14;15;16;20;29;39
+bonus,11
+day,23rd
+month,November
+year,2022
+*
+date,November 19th 2022
+weekDay,Saturday
+lotto,4;6;12;23;26;27
+bonus,19
+day,19th
+month,November
+year,2022
+*
+date,November 16th 2022
+weekDay,Wednesday
+lotto,2;13;23;24;34;40
+bonus,19
+day,16th
+month,November
+year,2022
+*
+date,November 12th 2022
+weekDay,Saturday
+lotto,13;22;25;26;37;40
+bonus,6
+day,12th
+month,November
+year,2022
+*
+date,November 9th 2022
+weekDay,Wednesday
+lotto,10;11;20;24;26;32
+bonus,17
+day,9th
+month,November
+year,2022
+*
+date,November 5th 2022
+weekDay,Saturday
+lotto,12;17;18;22;25;27
+bonus,38
+day,5th
+month,November
+year,2022
+*
+date,November 2nd 2022
+weekDay,Wednesday
+lotto,12;20;22;24;28;31
+bonus,4
+day,2nd
+month,November
+year,2022
+*
+date,October 29th 2022
+weekDay,Saturday
+lotto,17;20;26;32;33;39
+bonus,9
+day,29th
+month,October
+year,2022
+*
+date,October 26th 2022
+weekDay,Wednesday
+lotto,7;15;21;22;29;39
+bonus,37
+day,26th
+month,October
+year,2022
+*
+date,October 22nd 2022
+weekDay,Saturday
+lotto,6;9;15;29;33;34
+bonus,27
+day,22nd
+month,October
+year,2022
+*
+date,October 19th 2022
+weekDay,Wednesday
+lotto,10;12;17;25;30;32
+bonus,23
+day,19th
+month,October
+year,2022
+*
+date,October 15th 2022
+weekDay,Saturday
+lotto,2;4;8;10;15;33
+bonus,17
+day,15th
+month,October
+year,2022
+*
+date,October 12th 2022
+weekDay,Wednesday
+lotto,9;15;22;27;37;39
+bonus,31
+day,12th
+month,October
+year,2022
+*
+date,October 8th 2022
+weekDay,Saturday
+lotto,4;10;12;25;31;40
+bonus,36
+day,8th
+month,October
+year,2022
+*
+date,October 5th 2022
+weekDay,Wednesday
+lotto,2;8;9;16;25;34
+bonus,21
+day,5th
+month,October
+year,2022
+*
+date,October 1st 2022
+weekDay,Saturday
+lotto,4;16;29;31;32;33
+bonus,3
+day,1st
+month,October
+year,2022
+*
+date,September 28th 2022
+weekDay,Wednesday
+lotto,1;3;6;20;31;37
+bonus,11
+day,28th
+month,September
+year,2022
+*
+date,September 24th 2022
+weekDay,Saturday
+lotto,7;15;23;25;26;27
+bonus,11
+day,24th
+month,September
+year,2022
+*
+date,September 21st 2022
+weekDay,Wednesday
+lotto,8;13;24;27;28;35
+bonus,40
+day,21st
+month,September
+year,2022
+*
+date,September 17th 2022
+weekDay,Saturday
+lotto,3;9;12;34;37;38
+bonus,18
+day,17th
+month,September
+year,2022
+*
+date,September 14th 2022
+weekDay,Wednesday
+lotto,4;5;18;27;31;34
+bonus,30
+day,14th
+month,September
+year,2022
+*
+date,September 10th 2022
+weekDay,Saturday
+lotto,2;10;14;17;21;33
+bonus,35
+day,10th
+month,September
+year,2022
+*
+date,September 7th 2022
+weekDay,Wednesday
+lotto,5;12;19;21;26;38
+bonus,37
+day,7th
+month,September
+year,2022
+*
+date,September 3rd 2022
+weekDay,Saturday
+lotto,12;16;19;24;38;39
+bonus,6
+day,3rd
+month,September
+year,2022
+*
+date,August 31st 2022
+weekDay,Wednesday
+lotto,8;13;14;24;31;33
+bonus,35
+day,31st
+month,August
+year,2022
+*
+date,August 27th 2022
+weekDay,Saturday
+lotto,12;21;30;32;35;39
+bonus,17
+day,27th
+month,August
+year,2022
+*
+date,August 24th 2022
+weekDay,Wednesday
+lotto,6;18;24;29;30;34
+bonus,31
+day,24th
+month,August
+year,2022
+*
+date,August 20th 2022
+weekDay,Saturday
+lotto,6;13;28;31;33;38
+bonus,15
+day,20th
+month,August
+year,2022
+*
+date,August 17th 2022
+weekDay,Wednesday
+lotto,1;5;11;20;27;32
+bonus,10
+day,17th
+month,August
+year,2022
+*
+date,August 13th 2022
+weekDay,Saturday
+lotto,19;23;24;28;30;36
+bonus,14
+day,13th
+month,August
+year,2022
+*
+date,August 10th 2022
+weekDay,Wednesday
+lotto,1;2;20;29;32;33
+bonus,4
+day,10th
+month,August
+year,2022
+*
+date,August 6th 2022
+weekDay,Saturday
+lotto,13;21;29;37;38;39
+bonus,2
+day,6th
+month,August
+year,2022
+*
+date,August 3rd 2022
+weekDay,Wednesday
+lotto,2;7;25;27;28;35
+bonus,40
+day,3rd
+month,August
+year,2022
+*
+date,July 30th 2022
+weekDay,Saturday
+lotto,6;12;16;23;24;36
+bonus,13
+day,30th
+month,July
+year,2022
+*
+date,July 27th 2022
+weekDay,Wednesday
+lotto,13;15;19;20;28;32
+bonus,10
+day,27th
+month,July
+year,2022
+*
+date,July 23rd 2022
+weekDay,Saturday
+lotto,1;7;8;11;26;33
+bonus,4
+day,23rd
+month,July
+year,2022
+*
+date,July 20th 2022
+weekDay,Wednesday
+lotto,5;19;22;24;25;28
+bonus,30
+day,20th
+month,July
+year,2022
+*
+date,July 16th 2022
+weekDay,Saturday
+lotto,3;16;18;30;31;34
+bonus,17
+day,16th
+month,July
+year,2022
+*
+date,July 13th 2022
+weekDay,Wednesday
+lotto,2;3;6;9;15;40
+bonus,8
+day,13th
+month,July
+year,2022
+*
+date,July 9th 2022
+weekDay,Saturday
+lotto,2;22;23;24;32;38
+bonus,25
+day,9th
+month,July
+year,2022
+*
+date,July 6th 2022
+weekDay,Wednesday
+lotto,10;24;28;31;35;38
+bonus,11
+day,6th
+month,July
+year,2022
+*
+date,July 2nd 2022
+weekDay,Saturday
+lotto,4;7;23;26;27;33
+bonus,2
+day,2nd
+month,July
+year,2022
+*
+date,June 29th 2022
+weekDay,Wednesday
+lotto,7;10;25;27;28;29
+bonus,18
+day,29th
+month,June
+year,2022
+*
+date,June 25th 2022
+weekDay,Saturday
+lotto,4;20;33;37;39;40
+bonus,29
+day,25th
+month,June
+year,2022
+*
+date,June 22nd 2022
+weekDay,Wednesday
+lotto,2;5;9;22;29;34
+bonus,1
+day,22nd
+month,June
+year,2022
+*
+date,June 18th 2022
+weekDay,Saturday
+lotto,6;13;15;17;33;38
+bonus,3
+day,18th
+month,June
+year,2022
+*
+date,June 15th 2022
+weekDay,Wednesday
+lotto,9;12;21;22;25;35
+bonus,8
+day,15th
+month,June
+year,2022
+*
+date,June 11th 2022
+weekDay,Saturday
+lotto,3;4;5;21;24;40
+bonus,33
+day,11th
+month,June
+year,2022
+*
+date,June 8th 2022
+weekDay,Wednesday
+lotto,10;11;17;19;32;36
+bonus,21
+day,8th
+month,June
+year,2022
+*
+date,June 4th 2022
+weekDay,Saturday
+lotto,5;10;19;30;31;36
+bonus,34
+day,4th
+month,June
+year,2022
+*
+date,June 1st 2022
+weekDay,Wednesday
+lotto,2;5;6;9;25;35
+bonus,13
+day,1st
+month,June
+year,2022
+*
+date,May 28th 2022
+weekDay,Saturday
+lotto,10;13;17;26;30;31
+bonus,12
+day,28th
+month,May
+year,2022
+*
+date,May 25th 2022
+weekDay,Wednesday
+lotto,1;3;14;20;29;33
+bonus,25
+day,25th
+month,May
+year,2022
+*
+date,May 21st 2022
+weekDay,Saturday
+lotto,12;15;19;28;39;40
+bonus,17
+day,21st
+month,May
+year,2022
+*
+date,May 18th 2022
+weekDay,Wednesday
+lotto,1;7;23;29;31;37
+bonus,22
+day,18th
+month,May
+year,2022
+*
+date,May 14th 2022
+weekDay,Saturday
+lotto,3;5;7;18;31;35
+bonus,4
+day,14th
+month,May
+year,2022
+*
+date,May 11th 2022
+weekDay,Wednesday
+lotto,21;22;25;28;33;37
+bonus,2
+day,11th
+month,May
+year,2022
+*
+date,May 7th 2022
+weekDay,Saturday
+lotto,5;14;16;24;31;39
+bonus,30
+day,7th
+month,May
+year,2022
+*
+date,May 4th 2022
+weekDay,Wednesday
+lotto,5;19;21;26;28;31
+bonus,34
+day,4th
+month,May
+year,2022
+*
+date,April 30th 2022
+weekDay,Saturday
+lotto,2;6;15;22;29;38
+bonus,27
+day,30th
+month,April
+year,2022
+*
+date,April 27th 2022
+weekDay,Wednesday
+lotto,12;16;19;24;25;37
+bonus,1
+day,27th
+month,April
+year,2022
+*
+date,April 23rd 2022
+weekDay,Saturday
+lotto,3;13;19;23;30;32
+bonus,25
+day,23rd
+month,April
+year,2022
+*
+date,April 20th 2022
+weekDay,Wednesday
+lotto,3;4;15;17;19;34
+bonus,11
+day,20th
+month,April
+year,2022
+*
+date,April 16th 2022
+weekDay,Saturday
+lotto,4;21;22;23;30;37
+bonus,7
+day,16th
+month,April
+year,2022
+*
+date,April 13th 2022
+weekDay,Wednesday
+lotto,4;5;31;32;39;40
+bonus,37
+day,13th
+month,April
+year,2022
+*
+date,April 9th 2022
+weekDay,Saturday
+lotto,4;13;27;28;35;36
+bonus,21
+day,9th
+month,April
+year,2022
+*
+date,April 6th 2022
+weekDay,Wednesday
+lotto,7;10;27;31;37;38
+bonus,21
+day,6th
+month,April
+year,2022
+*
+date,April 2nd 2022
+weekDay,Saturday
+lotto,2;9;17;18;30;38
+bonus,37
+day,2nd
+month,April
+year,2022
+*
+date,March 30th 2022
+weekDay,Wednesday
+lotto,4;5;6;15;22;40
+bonus,39
+day,30th
+month,March
+year,2022
+*
+date,March 26th 2022
+weekDay,Saturday
+lotto,2;5;11;20;23;25
+bonus,35
+day,26th
+month,March
+year,2022
+*
+date,March 23rd 2022
+weekDay,Wednesday
+lotto,1;5;16;23;24;39
+bonus,38
+day,23rd
+month,March
+year,2022
+*
+date,March 19th 2022
+weekDay,Saturday
+lotto,17;20;23;30;31;40
+bonus,9
+day,19th
+month,March
+year,2022
+*
+date,March 16th 2022
+weekDay,Wednesday
+lotto,4;11;14;15;24;35
+bonus,22
+day,16th
+month,March
+year,2022
+*
+date,March 12th 2022
+weekDay,Saturday
+lotto,5;22;23;26;28;34
+bonus,32
+day,12th
+month,March
+year,2022
+*
+date,March 9th 2022
+weekDay,Wednesday
+lotto,5;13;15;16;28;39
+bonus,9
+day,9th
+month,March
+year,2022
+*
+date,March 5th 2022
+weekDay,Saturday
+lotto,5;6;12;18;25;27
+bonus,39
+day,5th
+month,March
+year,2022
+*
+date,March 2nd 2022
+weekDay,Wednesday
+lotto,3;6;16;23;32;38
+bonus,11
+day,2nd
+month,March
+year,2022
+*
+date,February 26th 2022
+weekDay,Saturday
+lotto,1;20;21;26;27;36
+bonus,12
+day,26th
+month,February
+year,2022
+*
+date,February 23rd 2022
+weekDay,Wednesday
+lotto,10;12;17;27;29;30
+bonus,13
+day,23rd
+month,February
+year,2022
+*
+date,February 19th 2022
+weekDay,Saturday
+lotto,6;14;17;24;29;32
+bonus,38
+day,19th
+month,February
+year,2022
+*
+date,February 16th 2022
+weekDay,Wednesday
+lotto,5;7;33;34;38;40
+bonus,2
+day,16th
+month,February
+year,2022
+*
+date,February 12th 2022
+weekDay,Saturday
+lotto,8;11;15;27;32;33
+bonus,7
+day,12th
+month,February
+year,2022
+*
+date,February 9th 2022
+weekDay,Wednesday
+lotto,3;12;22;31;34;35
+bonus,18
+day,9th
+month,February
+year,2022
+*
+date,February 5th 2022
+weekDay,Saturday
+lotto,5;11;12;22;33;39
+bonus,10
+day,5th
+month,February
+year,2022
+*
+date,February 2nd 2022
+weekDay,Wednesday
+lotto,9;16;25;29;32;39
+bonus,34
+day,2nd
+month,February
+year,2022
+*
+date,January 29th 2022
+weekDay,Saturday
+lotto,12;16;19;25;29;36
+bonus,35
+day,29th
+month,January
+year,2022
+*
+date,January 26th 2022
+weekDay,Wednesday
+lotto,6;15;25;34;36;38
+bonus,1
+day,26th
+month,January
+year,2022
+*
+date,January 22nd 2022
+weekDay,Saturday
+lotto,2;4;11;13;25;27
+bonus,40
+day,22nd
+month,January
+year,2022
+*
+date,January 19th 2022
+weekDay,Wednesday
+lotto,2;4;11;13;23;32
+bonus,17
+day,19th
+month,January
+year,2022
+*
+date,January 15th 2022
+weekDay,Saturday
+lotto,13;17;20;21;30;34
+bonus,40
+day,15th
+month,January
+year,2022
+*
+date,January 12th 2022
+weekDay,Wednesday
+lotto,8;13;20;24;25;32
+bonus,31
+day,12th
+month,January
+year,2022
+*
+date,January 8th 2022
+weekDay,Saturday
+lotto,14;15;16;23;24;38
+bonus,28
+day,8th
+month,January
+year,2022
+*
+date,January 5th 2022
+weekDay,Wednesday
+lotto,9;15;17;32;37;38
+bonus,20
+day,5th
+month,January
+year,2022
+*
+date,January 1st 2022
+weekDay,Saturday
+lotto,3;6;19;20;23;29
+bonus,21
+day,1st
+month,January
+year,2022

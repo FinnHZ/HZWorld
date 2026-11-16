@@ -1,0 +1,832 @@
+*
+date,December 28th 2019
+weekDay,Saturday
+lotto,6;10;16;24;28;34
+bonus,38
+day,28th
+month,December
+year,2019
+*
+date,December 25th 2019
+weekDay,Wednesday
+lotto,6;13;15;16;35;38
+bonus,33
+day,25th
+month,December
+year,2019
+*
+date,December 21st 2019
+weekDay,Saturday
+lotto,7;9;14;18;20;34
+bonus,8
+day,21st
+month,December
+year,2019
+*
+date,December 18th 2019
+weekDay,Wednesday
+lotto,6;19;21;24;32;34
+bonus,30
+day,18th
+month,December
+year,2019
+*
+date,December 14th 2019
+weekDay,Saturday
+lotto,19;21;23;34;35;39
+bonus,26
+day,14th
+month,December
+year,2019
+*
+date,December 11th 2019
+weekDay,Wednesday
+lotto,2;7;11;16;28;39
+bonus,5
+day,11th
+month,December
+year,2019
+*
+date,December 7th 2019
+weekDay,Saturday
+lotto,6;9;23;25;26;27
+bonus,39
+day,7th
+month,December
+year,2019
+*
+date,December 4th 2019
+weekDay,Wednesday
+lotto,1;8;15;16;22;30
+bonus,19
+day,4th
+month,December
+year,2019
+*
+date,November 30th 2019
+weekDay,Saturday
+lotto,12;18;26;33;35;39
+bonus,28
+day,30th
+month,November
+year,2019
+*
+date,November 27th 2019
+weekDay,Wednesday
+lotto,1;4;9;22;26;28
+bonus,23
+day,27th
+month,November
+year,2019
+*
+date,November 23rd 2019
+weekDay,Saturday
+lotto,16;17;20;22;28;29
+bonus,6
+day,23rd
+month,November
+year,2019
+*
+date,November 20th 2019
+weekDay,Wednesday
+lotto,1;2;11;17;30;35
+bonus,7
+day,20th
+month,November
+year,2019
+*
+date,November 16th 2019
+weekDay,Saturday
+lotto,13;18;19;32;33;39
+bonus,2
+day,16th
+month,November
+year,2019
+*
+date,November 13th 2019
+weekDay,Wednesday
+lotto,2;9;10;17;22;31
+bonus,18
+day,13th
+month,November
+year,2019
+*
+date,November 9th 2019
+weekDay,Saturday
+lotto,6;7;11;23;29;37
+bonus,20
+day,9th
+month,November
+year,2019
+*
+date,November 6th 2019
+weekDay,Wednesday
+lotto,1;7;9;10;15;19
+bonus,26
+day,6th
+month,November
+year,2019
+*
+date,November 2nd 2019
+weekDay,Saturday
+lotto,13;16;21;23;27;35
+bonus,26
+day,2nd
+month,November
+year,2019
+*
+date,October 30th 2019
+weekDay,Wednesday
+lotto,5;7;10;11;36;39
+bonus,20
+day,30th
+month,October
+year,2019
+*
+date,October 26th 2019
+weekDay,Saturday
+lotto,8;12;16;19;20;24
+bonus,18
+day,26th
+month,October
+year,2019
+*
+date,October 23rd 2019
+weekDay,Wednesday
+lotto,2;3;20;24;26;39
+bonus,22
+day,23rd
+month,October
+year,2019
+*
+date,October 19th 2019
+weekDay,Saturday
+lotto,6;12;21;28;35;38
+bonus,8
+day,19th
+month,October
+year,2019
+*
+date,October 16th 2019
+weekDay,Wednesday
+lotto,5;7;14;17;22;29
+bonus,9
+day,16th
+month,October
+year,2019
+*
+date,October 12th 2019
+weekDay,Saturday
+lotto,19;23;25;27;30;40
+bonus,37
+day,12th
+month,October
+year,2019
+*
+date,October 9th 2019
+weekDay,Wednesday
+lotto,5;15;22;27;29;38
+bonus,13
+day,9th
+month,October
+year,2019
+*
+date,October 5th 2019
+weekDay,Saturday
+lotto,8;9;16;20;33;36
+bonus,17
+day,5th
+month,October
+year,2019
+*
+date,October 2nd 2019
+weekDay,Wednesday
+lotto,3;4;6;22;25;32
+bonus,13
+day,2nd
+month,October
+year,2019
+*
+date,September 28th 2019
+weekDay,Saturday
+lotto,5;13;15;36;37;39
+bonus,14
+day,28th
+month,September
+year,2019
+*
+date,September 25th 2019
+weekDay,Wednesday
+lotto,3;5;15;21;22;31
+bonus,9
+day,25th
+month,September
+year,2019
+*
+date,September 21st 2019
+weekDay,Saturday
+lotto,7;14;19;23;32;34
+bonus,2
+day,21st
+month,September
+year,2019
+*
+date,September 18th 2019
+weekDay,Wednesday
+lotto,7;11;19;21;26;36
+bonus,17
+day,18th
+month,September
+year,2019
+*
+date,September 14th 2019
+weekDay,Saturday
+lotto,6;13;15;22;26;34
+bonus,12
+day,14th
+month,September
+year,2019
+*
+date,September 11th 2019
+weekDay,Wednesday
+lotto,7;8;13;24;32;38
+bonus,17
+day,11th
+month,September
+year,2019
+*
+date,September 7th 2019
+weekDay,Saturday
+lotto,1;7;20;29;31;38
+bonus,32
+day,7th
+month,September
+year,2019
+*
+date,September 4th 2019
+weekDay,Wednesday
+lotto,4;6;20;22;30;39
+bonus,38
+day,4th
+month,September
+year,2019
+*
+date,August 31st 2019
+weekDay,Saturday
+lotto,2;4;5;24;30;37
+bonus,33
+day,31st
+month,August
+year,2019
+*
+date,August 28th 2019
+weekDay,Wednesday
+lotto,4;15;19;23;24;25
+bonus,21
+day,28th
+month,August
+year,2019
+*
+date,August 24th 2019
+weekDay,Saturday
+lotto,2;4;6;17;22;35
+bonus,21
+day,24th
+month,August
+year,2019
+*
+date,August 21st 2019
+weekDay,Wednesday
+lotto,6;8;15;17;21;23
+bonus,29
+day,21st
+month,August
+year,2019
+*
+date,August 17th 2019
+weekDay,Saturday
+lotto,1;6;10;12;29;32
+bonus,19
+day,17th
+month,August
+year,2019
+*
+date,August 14th 2019
+weekDay,Wednesday
+lotto,15;19;23;31;35;40
+bonus,8
+day,14th
+month,August
+year,2019
+*
+date,August 10th 2019
+weekDay,Saturday
+lotto,8;12;17;23;31;34
+bonus,40
+day,10th
+month,August
+year,2019
+*
+date,August 7th 2019
+weekDay,Wednesday
+lotto,3;7;11;24;25;40
+bonus,35
+day,7th
+month,August
+year,2019
+*
+date,August 3rd 2019
+weekDay,Saturday
+lotto,7;17;30;31;34;39
+bonus,25
+day,3rd
+month,August
+year,2019
+*
+date,July 31st 2019
+weekDay,Wednesday
+lotto,4;10;16;22;25;40
+bonus,35
+day,31st
+month,July
+year,2019
+*
+date,July 27th 2019
+weekDay,Saturday
+lotto,1;4;6;17;19;21
+bonus,30
+day,27th
+month,July
+year,2019
+*
+date,July 24th 2019
+weekDay,Wednesday
+lotto,6;22;23;25;27;32
+bonus,8
+day,24th
+month,July
+year,2019
+*
+date,July 20th 2019
+weekDay,Saturday
+lotto,4;5;13;22;24;28
+bonus,6
+day,20th
+month,July
+year,2019
+*
+date,July 17th 2019
+weekDay,Wednesday
+lotto,1;10;16;18;26;27
+bonus,30
+day,17th
+month,July
+year,2019
+*
+date,July 13th 2019
+weekDay,Saturday
+lotto,7;10;16;28;33;36
+bonus,34
+day,13th
+month,July
+year,2019
+*
+date,July 10th 2019
+weekDay,Wednesday
+lotto,5;12;28;33;35;38
+bonus,37
+day,10th
+month,July
+year,2019
+*
+date,July 6th 2019
+weekDay,Saturday
+lotto,2;5;17;31;33;37
+bonus,40
+day,6th
+month,July
+year,2019
+*
+date,July 3rd 2019
+weekDay,Wednesday
+lotto,1;15;22;31;38;39
+bonus,5
+day,3rd
+month,July
+year,2019
+*
+date,June 29th 2019
+weekDay,Saturday
+lotto,7;10;18;19;20;37
+bonus,29
+day,29th
+month,June
+year,2019
+*
+date,June 26th 2019
+weekDay,Wednesday
+lotto,15;29;30;32;38;39
+bonus,28
+day,26th
+month,June
+year,2019
+*
+date,June 22nd 2019
+weekDay,Saturday
+lotto,7;10;12;14;26;37
+bonus,40
+day,22nd
+month,June
+year,2019
+*
+date,June 19th 2019
+weekDay,Wednesday
+lotto,4;11;19;30;31;33
+bonus,7
+day,19th
+month,June
+year,2019
+*
+date,June 15th 2019
+weekDay,Saturday
+lotto,6;15;25;27;28;35
+bonus,4
+day,15th
+month,June
+year,2019
+*
+date,June 12th 2019
+weekDay,Wednesday
+lotto,2;6;7;8;23;39
+bonus,32
+day,12th
+month,June
+year,2019
+*
+date,June 8th 2019
+weekDay,Saturday
+lotto,6;10;22;25;27;36
+bonus,17
+day,8th
+month,June
+year,2019
+*
+date,June 5th 2019
+weekDay,Wednesday
+lotto,5;17;26;27;28;39
+bonus,33
+day,5th
+month,June
+year,2019
+*
+date,June 1st 2019
+weekDay,Saturday
+lotto,1;19;22;30;33;37
+bonus,11
+day,1st
+month,June
+year,2019
+*
+date,May 29th 2019
+weekDay,Wednesday
+lotto,8;10;20;26;30;40
+bonus,5
+day,29th
+month,May
+year,2019
+*
+date,May 25th 2019
+weekDay,Saturday
+lotto,2;10;23;30;35;37
+bonus,21
+day,25th
+month,May
+year,2019
+*
+date,May 22nd 2019
+weekDay,Wednesday
+lotto,2;3;12;14;16;28
+bonus,7
+day,22nd
+month,May
+year,2019
+*
+date,May 18th 2019
+weekDay,Saturday
+lotto,9;10;12;20;24;25
+bonus,7
+day,18th
+month,May
+year,2019
+*
+date,May 15th 2019
+weekDay,Wednesday
+lotto,5;13;14;21;27;37
+bonus,22
+day,15th
+month,May
+year,2019
+*
+date,May 11th 2019
+weekDay,Saturday
+lotto,2;3;16;19;20;39
+bonus,32
+day,11th
+month,May
+year,2019
+*
+date,May 8th 2019
+weekDay,Wednesday
+lotto,7;8;9;11;19;28
+bonus,38
+day,8th
+month,May
+year,2019
+*
+date,May 4th 2019
+weekDay,Saturday
+lotto,4;27;29;34;36;37
+bonus,10
+day,4th
+month,May
+year,2019
+*
+date,May 1st 2019
+weekDay,Wednesday
+lotto,7;16;17;32;37;38
+bonus,9
+day,1st
+month,May
+year,2019
+*
+date,April 27th 2019
+weekDay,Saturday
+lotto,4;8;22;24;29;37
+bonus,35
+day,27th
+month,April
+year,2019
+*
+date,April 24th 2019
+weekDay,Wednesday
+lotto,16;19;20;31;35;38
+bonus,23
+day,24th
+month,April
+year,2019
+*
+date,April 20th 2019
+weekDay,Saturday
+lotto,1;10;21;32;37;39
+bonus,19
+day,20th
+month,April
+year,2019
+*
+date,April 17th 2019
+weekDay,Wednesday
+lotto,9;18;21;27;34;35
+bonus,11
+day,17th
+month,April
+year,2019
+*
+date,April 13th 2019
+weekDay,Saturday
+lotto,1;8;10;18;26;28
+bonus,31
+day,13th
+month,April
+year,2019
+*
+date,April 10th 2019
+weekDay,Wednesday
+lotto,17;22;31;32;33;40
+bonus,6
+day,10th
+month,April
+year,2019
+*
+date,April 6th 2019
+weekDay,Saturday
+lotto,10;11;14;22;28;40
+bonus,12
+day,6th
+month,April
+year,2019
+*
+date,April 3rd 2019
+weekDay,Wednesday
+lotto,7;10;12;30;35;38
+bonus,24
+day,3rd
+month,April
+year,2019
+*
+date,March 30th 2019
+weekDay,Saturday
+lotto,2;3;9;13;18;21
+bonus,33
+day,30th
+month,March
+year,2019
+*
+date,March 27th 2019
+weekDay,Wednesday
+lotto,5;7;10;13;17;37
+bonus,25
+day,27th
+month,March
+year,2019
+*
+date,March 23rd 2019
+weekDay,Saturday
+lotto,10;21;23;24;27;36
+bonus,16
+day,23rd
+month,March
+year,2019
+*
+date,March 20th 2019
+weekDay,Wednesday
+lotto,10;12;21;23;30;33
+bonus,6
+day,20th
+month,March
+year,2019
+*
+date,March 16th 2019
+weekDay,Saturday
+lotto,3;11;18;21;32;37
+bonus,20
+day,16th
+month,March
+year,2019
+*
+date,March 13th 2019
+weekDay,Wednesday
+lotto,7;8;14;23;31;39
+bonus,25
+day,13th
+month,March
+year,2019
+*
+date,March 9th 2019
+weekDay,Saturday
+lotto,7;20;25;28;32;34
+bonus,36
+day,9th
+month,March
+year,2019
+*
+date,March 6th 2019
+weekDay,Wednesday
+lotto,4;7;16;21;32;36
+bonus,15
+day,6th
+month,March
+year,2019
+*
+date,March 2nd 2019
+weekDay,Saturday
+lotto,8;9;12;14;15;19
+bonus,24
+day,2nd
+month,March
+year,2019
+*
+date,February 27th 2019
+weekDay,Wednesday
+lotto,1;9;31;32;36;38
+bonus,8
+day,27th
+month,February
+year,2019
+*
+date,February 23rd 2019
+weekDay,Saturday
+lotto,13;31;33;36;38;40
+bonus,34
+day,23rd
+month,February
+year,2019
+*
+date,February 20th 2019
+weekDay,Wednesday
+lotto,1;7;20;22;23;28
+bonus,39
+day,20th
+month,February
+year,2019
+*
+date,February 16th 2019
+weekDay,Saturday
+lotto,1;2;27;35;36;40
+bonus,3
+day,16th
+month,February
+year,2019
+*
+date,February 13th 2019
+weekDay,Wednesday
+lotto,2;5;6;26;27;31
+bonus,16
+day,13th
+month,February
+year,2019
+*
+date,February 9th 2019
+weekDay,Saturday
+lotto,1;4;24;25;26;37
+bonus,9
+day,9th
+month,February
+year,2019
+*
+date,February 6th 2019
+weekDay,Wednesday
+lotto,6;8;14;15;26;31
+bonus,34
+day,6th
+month,February
+year,2019
+*
+date,February 2nd 2019
+weekDay,Saturday
+lotto,9;17;19;20;29;33
+bonus,14
+day,2nd
+month,February
+year,2019
+*
+date,January 30th 2019
+weekDay,Wednesday
+lotto,2;17;22;25;38;40
+bonus,8
+day,30th
+month,January
+year,2019
+*
+date,January 26th 2019
+weekDay,Saturday
+lotto,13;19;27;31;35;37
+bonus,2
+day,26th
+month,January
+year,2019
+*
+date,January 23rd 2019
+weekDay,Wednesday
+lotto,3;10;11;13;31;40
+bonus,35
+day,23rd
+month,January
+year,2019
+*
+date,January 19th 2019
+weekDay,Saturday
+lotto,1;12;17;24;32;33
+bonus,31
+day,19th
+month,January
+year,2019
+*
+date,January 16th 2019
+weekDay,Wednesday
+lotto,3;8;21;22;30;35
+bonus,37
+day,16th
+month,January
+year,2019
+*
+date,January 12th 2019
+weekDay,Saturday
+lotto,4;6;18;19;24;40
+bonus,27
+day,12th
+month,January
+year,2019
+*
+date,January 9th 2019
+weekDay,Wednesday
+lotto,4;6;11;12;23;40
+bonus,10
+day,9th
+month,January
+year,2019
+*
+date,January 5th 2019
+weekDay,Saturday
+lotto,2;4;20;23;24;34
+bonus,31
+day,5th
+month,January
+year,2019
+*
+date,January 2nd 2019
+weekDay,Wednesday
+lotto,11;15;22;31;35;39
+bonus,16
+day,2nd
+month,January
+year,2019

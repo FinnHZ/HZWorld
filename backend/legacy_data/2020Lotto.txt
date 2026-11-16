@@ -1,0 +1,840 @@
+*
+date,December 30th 2020
+weekDay,Wednesday
+lotto,2;5;9;24;26;28
+bonus,25
+day,30th
+month,December
+year,2020
+*
+date,December 26th 2020
+weekDay,Saturday
+lotto,1;7;11;16;21;38
+bonus,2
+day,26th
+month,December
+year,2020
+*
+date,December 23rd 2020
+weekDay,Wednesday
+lotto,19;25;26;27;34;38
+bonus,11
+day,23rd
+month,December
+year,2020
+*
+date,December 19th 2020
+weekDay,Saturday
+lotto,5;16;31;37;39;40
+bonus,7
+day,19th
+month,December
+year,2020
+*
+date,December 16th 2020
+weekDay,Wednesday
+lotto,2;10;12;17;19;26
+bonus,29
+day,16th
+month,December
+year,2020
+*
+date,December 12th 2020
+weekDay,Saturday
+lotto,1;5;9;18;21;35
+bonus,16
+day,12th
+month,December
+year,2020
+*
+date,December 9th 2020
+weekDay,Wednesday
+lotto,17;20;22;27;29;34
+bonus,6
+day,9th
+month,December
+year,2020
+*
+date,December 5th 2020
+weekDay,Saturday
+lotto,1;4;10;14;15;20
+bonus,8
+day,5th
+month,December
+year,2020
+*
+date,December 2nd 2020
+weekDay,Wednesday
+lotto,2;4;6;25;30;40
+bonus,12
+day,2nd
+month,December
+year,2020
+*
+date,November 28th 2020
+weekDay,Saturday
+lotto,3;10;13;22;27;37
+bonus,33
+day,28th
+month,November
+year,2020
+*
+date,November 25th 2020
+weekDay,Wednesday
+lotto,2;3;14;29;30;35
+bonus,9
+day,25th
+month,November
+year,2020
+*
+date,November 21st 2020
+weekDay,Saturday
+lotto,5;6;7;15;19;36
+bonus,37
+day,21st
+month,November
+year,2020
+*
+date,November 18th 2020
+weekDay,Wednesday
+lotto,21;23;24;27;30;38
+bonus,36
+day,18th
+month,November
+year,2020
+*
+date,November 14th 2020
+weekDay,Saturday
+lotto,10;23;26;29;39;40
+bonus,15
+day,14th
+month,November
+year,2020
+*
+date,November 11th 2020
+weekDay,Wednesday
+lotto,3;4;13;17;26;35
+bonus,2
+day,11th
+month,November
+year,2020
+*
+date,November 7th 2020
+weekDay,Saturday
+lotto,1;14;16;20;24;31
+bonus,10
+day,7th
+month,November
+year,2020
+*
+date,November 4th 2020
+weekDay,Wednesday
+lotto,5;12;21;22;25;39
+bonus,37
+day,4th
+month,November
+year,2020
+*
+date,October 31st 2020
+weekDay,Saturday
+lotto,3;19;22;26;28;39
+bonus,32
+day,31st
+month,October
+year,2020
+*
+date,October 28th 2020
+weekDay,Wednesday
+lotto,12;17;28;35;37;40
+bonus,39
+day,28th
+month,October
+year,2020
+*
+date,October 24th 2020
+weekDay,Saturday
+lotto,11;12;13;19;22;36
+bonus,2
+day,24th
+month,October
+year,2020
+*
+date,October 21st 2020
+weekDay,Wednesday
+lotto,1;6;18;26;38;40
+bonus,7
+day,21st
+month,October
+year,2020
+*
+date,October 17th 2020
+weekDay,Saturday
+lotto,14;19;20;22;23;40
+bonus,26
+day,17th
+month,October
+year,2020
+*
+date,October 14th 2020
+weekDay,Wednesday
+lotto,1;5;16;21;31;34
+bonus,40
+day,14th
+month,October
+year,2020
+*
+date,October 10th 2020
+weekDay,Saturday
+lotto,1;5;20;31;32;33
+bonus,13
+day,10th
+month,October
+year,2020
+*
+date,October 7th 2020
+weekDay,Wednesday
+lotto,6;19;23;29;39;40
+bonus,26
+day,7th
+month,October
+year,2020
+*
+date,October 3rd 2020
+weekDay,Saturday
+lotto,2;9;23;30;32;39
+bonus,3
+day,3rd
+month,October
+year,2020
+*
+date,September 30th 2020
+weekDay,Wednesday
+lotto,12;16;25;29;35;39
+bonus,33
+day,30th
+month,September
+year,2020
+*
+date,September 26th 2020
+weekDay,Saturday
+lotto,1;3;9;11;23;37
+bonus,12
+day,26th
+month,September
+year,2020
+*
+date,September 23rd 2020
+weekDay,Wednesday
+lotto,1;4;11;17;18;24
+bonus,5
+day,23rd
+month,September
+year,2020
+*
+date,September 19th 2020
+weekDay,Saturday
+lotto,6;7;17;26;34;40
+bonus,11
+day,19th
+month,September
+year,2020
+*
+date,September 16th 2020
+weekDay,Wednesday
+lotto,11;17;18;25;29;37
+bonus,22
+day,16th
+month,September
+year,2020
+*
+date,September 12th 2020
+weekDay,Saturday
+lotto,1;3;17;23;32;35
+bonus,18
+day,12th
+month,September
+year,2020
+*
+date,September 9th 2020
+weekDay,Wednesday
+lotto,1;5;15;21;24;36
+bonus,13
+day,9th
+month,September
+year,2020
+*
+date,September 5th 2020
+weekDay,Saturday
+lotto,5;10;14;18;24;30
+bonus,9
+day,5th
+month,September
+year,2020
+*
+date,September 2nd 2020
+weekDay,Wednesday
+lotto,8;15;17;19;20;27
+bonus,11
+day,2nd
+month,September
+year,2020
+*
+date,August 29th 2020
+weekDay,Saturday
+lotto,8;14;19;20;23;37
+bonus,16
+day,29th
+month,August
+year,2020
+*
+date,August 26th 2020
+weekDay,Wednesday
+lotto,7;13;15;18;32;40
+bonus,29
+day,26th
+month,August
+year,2020
+*
+date,August 22nd 2020
+weekDay,Saturday
+lotto,20;24;26;36;37;39
+bonus,4
+day,22nd
+month,August
+year,2020
+*
+date,August 19th 2020
+weekDay,Wednesday
+lotto,13;25;26;30;31;37
+bonus,15
+day,19th
+month,August
+year,2020
+*
+date,August 15th 2020
+weekDay,Saturday
+lotto,8;12;21;22;23;27
+bonus,16
+day,15th
+month,August
+year,2020
+*
+date,August 12th 2020
+weekDay,Wednesday
+lotto,10;16;25;29;32;34
+bonus,40
+day,12th
+month,August
+year,2020
+*
+date,August 8th 2020
+weekDay,Saturday
+lotto,4;7;11;16;23;28
+bonus,36
+day,8th
+month,August
+year,2020
+*
+date,August 5th 2020
+weekDay,Wednesday
+lotto,5;9;19;20;22;24
+bonus,6
+day,5th
+month,August
+year,2020
+*
+date,August 1st 2020
+weekDay,Saturday
+lotto,7;16;22;24;31;34
+bonus,20
+day,1st
+month,August
+year,2020
+*
+date,July 29th 2020
+weekDay,Wednesday
+lotto,6;21;28;36;37;40
+bonus,17
+day,29th
+month,July
+year,2020
+*
+date,July 25th 2020
+weekDay,Saturday
+lotto,10;11;12;28;38;40
+bonus,33
+day,25th
+month,July
+year,2020
+*
+date,July 22nd 2020
+weekDay,Wednesday
+lotto,4;10;18;20;30;40
+bonus,25
+day,22nd
+month,July
+year,2020
+*
+date,July 18th 2020
+weekDay,Saturday
+lotto,1;9;10;16;22;23
+bonus,33
+day,18th
+month,July
+year,2020
+*
+date,July 15th 2020
+weekDay,Wednesday
+lotto,10;11;16;19;29;34
+bonus,24
+day,15th
+month,July
+year,2020
+*
+date,July 11th 2020
+weekDay,Saturday
+lotto,8;16;18;21;29;40
+bonus,2
+day,11th
+month,July
+year,2020
+*
+date,July 8th 2020
+weekDay,Wednesday
+lotto,14;15;24;31;32;37
+bonus,17
+day,8th
+month,July
+year,2020
+*
+date,July 4th 2020
+weekDay,Saturday
+lotto,2;6;7;23;25;30
+bonus,39
+day,4th
+month,July
+year,2020
+*
+date,July 1st 2020
+weekDay,Wednesday
+lotto,1;15;22;25;35;39
+bonus,13
+day,1st
+month,July
+year,2020
+*
+date,June 27th 2020
+weekDay,Saturday
+lotto,4;8;20;29;31;35
+bonus,19
+day,27th
+month,June
+year,2020
+*
+date,June 24th 2020
+weekDay,Wednesday
+lotto,4;29;34;35;39;40
+bonus,12
+day,24th
+month,June
+year,2020
+*
+date,June 20th 2020
+weekDay,Saturday
+lotto,2;3;10;11;29;35
+bonus,23
+day,20th
+month,June
+year,2020
+*
+date,June 17th 2020
+weekDay,Wednesday
+lotto,2;24;32;35;36;38
+bonus,40
+day,17th
+month,June
+year,2020
+*
+date,June 13th 2020
+weekDay,Saturday
+lotto,2;8;17;18;27;29
+bonus,15
+day,13th
+month,June
+year,2020
+*
+date,June 10th 2020
+weekDay,Wednesday
+lotto,6;11;12;15;17;22
+bonus,39
+day,10th
+month,June
+year,2020
+*
+date,June 6th 2020
+weekDay,Saturday
+lotto,6;10;11;12;25;39
+bonus,5
+day,6th
+month,June
+year,2020
+*
+date,June 3rd 2020
+weekDay,Wednesday
+lotto,2;29;30;33;35;40
+bonus,21
+day,3rd
+month,June
+year,2020
+*
+date,May 30th 2020
+weekDay,Saturday
+lotto,2;4;12;13;15;28
+bonus,5
+day,30th
+month,May
+year,2020
+*
+date,May 27th 2020
+weekDay,Wednesday
+lotto,1;9;20;29;31;34
+bonus,25
+day,27th
+month,May
+year,2020
+*
+date,May 23rd 2020
+weekDay,Saturday
+lotto,10;12;14;28;32;35
+bonus,29
+day,23rd
+month,May
+year,2020
+*
+date,May 20th 2020
+weekDay,Wednesday
+lotto,8;19;32;36;38;39
+bonus,29
+day,20th
+month,May
+year,2020
+*
+date,May 16th 2020
+weekDay,Saturday
+lotto,10;15;20;26;31;34
+bonus,5
+day,16th
+month,May
+year,2020
+*
+date,May 13th 2020
+weekDay,Wednesday
+lotto,5;6;18;20;29;33
+bonus,7
+day,13th
+month,May
+year,2020
+*
+date,May 9th 2020
+weekDay,Saturday
+lotto,7;15;22;27;29;38
+bonus,33
+day,9th
+month,May
+year,2020
+*
+date,May 6th 2020
+weekDay,Wednesday
+lotto,1;9;12;23;36;39
+bonus,13
+day,6th
+month,May
+year,2020
+*
+date,May 2nd 2020
+weekDay,Saturday
+lotto,6;7;9;22;24;38
+bonus,39
+day,2nd
+month,May
+year,2020
+*
+date,April 29th 2020
+weekDay,Wednesday
+lotto,11;16;23;24;29;33
+bonus,20
+day,29th
+month,April
+year,2020
+*
+date,April 25th 2020
+weekDay,Saturday
+lotto,5;12;19;22;25;38
+bonus,32
+day,25th
+month,April
+year,2020
+*
+date,April 22nd 2020
+weekDay,Wednesday
+lotto,5;7;8;16;31;33
+bonus,20
+day,22nd
+month,April
+year,2020
+*
+date,April 18th 2020
+weekDay,Saturday
+lotto,1;4;6;8;11;19
+bonus,34
+day,18th
+month,April
+year,2020
+*
+date,April 15th 2020
+weekDay,Wednesday
+lotto,3;15;17;22;26;29
+bonus,18
+day,15th
+month,April
+year,2020
+*
+date,April 11th 2020
+weekDay,Saturday
+lotto,8;17;23;25;27;28
+bonus,7
+day,11th
+month,April
+year,2020
+*
+date,April 8th 2020
+weekDay,Wednesday
+lotto,5;11;20;25;26;40
+bonus,16
+day,8th
+month,April
+year,2020
+*
+date,April 4th 2020
+weekDay,Saturday
+lotto,6;10;11;13;20;30
+bonus,31
+day,4th
+month,April
+year,2020
+*
+date,April 1st 2020
+weekDay,Wednesday
+lotto,8;21;25;28;32;35
+bonus,18
+day,1st
+month,April
+year,2020
+*
+date,March 28th 2020
+weekDay,Saturday
+lotto,2;3;19;35;37;39
+bonus,23
+day,28th
+month,March
+year,2020
+*
+date,March 25th 2020
+weekDay,Wednesday
+lotto,7;8;10;17;21;27
+bonus,29
+day,25th
+month,March
+year,2020
+*
+date,March 21st 2020
+weekDay,Saturday
+lotto,9;16;18;19;20;28
+bonus,7
+day,21st
+month,March
+year,2020
+*
+date,March 18th 2020
+weekDay,Wednesday
+lotto,2;12;18;20;28;36
+bonus,32
+day,18th
+month,March
+year,2020
+*
+date,March 14th 2020
+weekDay,Saturday
+lotto,9;13;22;23;25;36
+bonus,37
+day,14th
+month,March
+year,2020
+*
+date,March 11th 2020
+weekDay,Wednesday
+lotto,8;13;21;22;29;40
+bonus,37
+day,11th
+month,March
+year,2020
+*
+date,March 7th 2020
+weekDay,Saturday
+lotto,7;14;20;23;26;39
+bonus,12
+day,7th
+month,March
+year,2020
+*
+date,March 4th 2020
+weekDay,Wednesday
+lotto,5;14;30;36;39;40
+bonus,7
+day,4th
+month,March
+year,2020
+*
+date,February 29th 2020
+weekDay,Saturday
+lotto,4;18;25;27;28;32
+bonus,37
+day,29th
+month,February
+year,2020
+*
+date,February 26th 2020
+weekDay,Wednesday
+lotto,2;3;8;21;30;33
+bonus,13
+day,26th
+month,February
+year,2020
+*
+date,February 22nd 2020
+weekDay,Saturday
+lotto,8;15;22;36;39;40
+bonus,31
+day,22nd
+month,February
+year,2020
+*
+date,February 19th 2020
+weekDay,Wednesday
+lotto,12;16;24;25;31;35
+bonus,1
+day,19th
+month,February
+year,2020
+*
+date,February 15th 2020
+weekDay,Saturday
+lotto,2;4;10;17;29;31
+bonus,5
+day,15th
+month,February
+year,2020
+*
+date,February 12th 2020
+weekDay,Wednesday
+lotto,2;11;20;21;25;32
+bonus,7
+day,12th
+month,February
+year,2020
+*
+date,February 8th 2020
+weekDay,Saturday
+lotto,12;13;14;15;24;38
+bonus,35
+day,8th
+month,February
+year,2020
+*
+date,February 5th 2020
+weekDay,Wednesday
+lotto,2;3;6;15;31;40
+bonus,30
+day,5th
+month,February
+year,2020
+*
+date,February 1st 2020
+weekDay,Saturday
+lotto,16;20;22;24;30;32
+bonus,6
+day,1st
+month,February
+year,2020
+*
+date,January 29th 2020
+weekDay,Wednesday
+lotto,10;21;26;27;28;31
+bonus,24
+day,29th
+month,January
+year,2020
+*
+date,January 25th 2020
+weekDay,Saturday
+lotto,10;11;19;24;28;34
+bonus,29
+day,25th
+month,January
+year,2020
+*
+date,January 22nd 2020
+weekDay,Wednesday
+lotto,1;14;29;35;36;39
+bonus,5
+day,22nd
+month,January
+year,2020
+*
+date,January 18th 2020
+weekDay,Saturday
+lotto,1;5;20;24;34;37
+bonus,26
+day,18th
+month,January
+year,2020
+*
+date,January 15th 2020
+weekDay,Wednesday
+lotto,4;6;21;29;32;35
+bonus,2
+day,15th
+month,January
+year,2020
+*
+date,January 11th 2020
+weekDay,Saturday
+lotto,9;13;16;26;33;40
+bonus,32
+day,11th
+month,January
+year,2020
+*
+date,January 8th 2020
+weekDay,Wednesday
+lotto,2;4;6;23;24;25
+bonus,38
+day,8th
+month,January
+year,2020
+*
+date,January 4th 2020
+weekDay,Saturday
+lotto,6;7;12;17;24;33
+bonus,23
+day,4th
+month,January
+year,2020
+*
+date,January 1st 2020
+weekDay,Wednesday
+lotto,14;23;33;34;38;40
+bonus,10
+day,1st
+month,January
+year,2020

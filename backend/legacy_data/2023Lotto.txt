@@ -1,0 +1,831 @@
+*
+date,December 30th 2023
+weekDay,Saturday
+lotto,10;15;17;25;33;38
+bonus,30
+day,30th
+month,December
+year,2023
+*
+date,December 27th 2023
+weekDay,Wednesday
+lotto,4;7;9;13;16;21
+bonus,6
+day,27th
+month,December
+year,2023
+*
+date,December 23rd 2023
+weekDay,Saturday
+lotto,12;14;30;35;38;40
+bonus,23
+day,23rd
+month,December
+year,2023
+*
+date,December 20th 2023
+weekDay,Wednesday
+lotto,2;15;26;37;38;40
+bonus,20
+day,20th
+month,December
+year,2023
+*
+date,December 16th 2023
+weekDay,Saturday
+lotto,1;7;23;31;35;37
+bonus,5
+day,16th
+month,December
+year,2023
+*
+date,December 13th 2023
+weekDay,Wednesday
+lotto,4;10;21;24;34;40
+bonus,31
+day,13th
+month,December
+year,2023
+*
+date,December 9th 2023
+weekDay,Saturday
+lotto,4;16;22;24;27;30
+bonus,5
+day,9th
+month,December
+year,2023
+*
+date,December 6th 2023
+weekDay,Wednesday
+lotto,17;23;27;34;36;40
+bonus,9
+day,6th
+month,December
+year,2023
+*
+date,December 2nd 2023
+weekDay,Saturday
+lotto,1;16;18;33;34;36
+bonus,15
+day,2nd
+month,December
+year,2023
+*
+date,November 29th 2023
+weekDay,Wednesday
+lotto,2;3;5;9;14;36
+bonus,25
+day,29th
+month,November
+year,2023
+*
+date,November 25th 2023
+weekDay,Saturday
+lotto,13;16;31;33;35;37
+bonus,19
+day,25th
+month,November
+year,2023
+*
+date,November 22nd 2023
+weekDay,Wednesday
+lotto,3;9;16;19;25;34
+bonus,1
+day,22nd
+month,November
+year,2023
+*
+date,November 18th 2023
+weekDay,Saturday
+lotto,7;11;12;27;33;39
+bonus,24
+day,18th
+month,November
+year,2023
+*
+date,November 15th 2023
+weekDay,Wednesday
+lotto,7;12;17;19;34;36
+bonus,21
+day,15th
+month,November
+year,2023
+*
+date,November 11th 2023
+weekDay,Saturday
+lotto,5;19;23;31;39;40
+bonus,25
+day,11th
+month,November
+year,2023
+*
+date,November 8th 2023
+weekDay,Wednesday
+lotto,2;3;11;20;25;39
+bonus,14
+day,8th
+month,November
+year,2023
+*
+date,November 4th 2023
+weekDay,Saturday
+lotto,10;11;12;23;24;25
+bonus,6
+day,4th
+month,November
+year,2023
+*
+date,November 1st 2023
+weekDay,Wednesday
+lotto,2;6;13;26;28;32
+bonus,16
+day,1st
+month,November
+year,2023
+*
+date,October 28th 2023
+weekDay,Saturday
+lotto,2;14;22;24;35;36
+bonus,9
+day,28th
+month,October
+year,2023
+*
+date,October 25th 2023
+weekDay,Wednesday
+lotto,9;10;20;21;26;35
+bonus,6
+day,25th
+month,October
+year,2023
+*
+date,October 21st 2023
+weekDay,Saturday
+lotto,8;13;26;29;33;40
+bonus,23
+day,21st
+month,October
+year,2023
+*
+date,October 18th 2023
+weekDay,Wednesday
+lotto,6;11;13;28;36;40
+bonus,32
+day,18th
+month,October
+year,2023
+*
+date,October 14th 2023
+weekDay,Saturday
+lotto,4;6;9;12;20;36
+bonus,5
+day,14th
+month,October
+year,2023
+*
+date,October 11th 2023
+weekDay,Wednesday
+lotto,1;7;12;14;19;31
+bonus,30
+day,11th
+month,October
+year,2023
+*
+date,October 7th 2023
+weekDay,Saturday
+lotto,5;25;28;34;36;38
+bonus,15
+day,7th
+month,October
+year,2023
+*
+date,October 4th 2023
+weekDay,Wednesday
+lotto,8;13;14;19;23;26
+bonus,6
+day,4th
+month,October
+year,2023
+*
+date,September 30th 2023
+weekDay,Saturday
+lotto,1;21;22;27;29;31
+bonus,3
+day,30th
+month,September
+year,2023
+*
+date,September 27th 2023
+weekDay,Wednesday
+lotto,3;6;9;11;19;27
+bonus,23
+day,27th
+month,September
+year,2023
+*
+date,September 23rd 2023
+weekDay,Saturday
+lotto,15;25;27;28;37;40
+bonus,33
+day,23rd
+month,September
+year,2023
+*
+date,September 20th 2023
+weekDay,Wednesday
+lotto,4;12;27;29;37;38
+bonus,30
+day,20th
+month,September
+year,2023
+*
+date,September 16th 2023
+weekDay,Saturday
+lotto,5;13;20;32;34;35
+bonus,6
+day,16th
+month,September
+year,2023
+*
+date,September 13th 2023
+weekDay,Wednesday
+lotto,1;2;16;21;33;40
+bonus,39
+day,13th
+month,September
+year,2023
+*
+date,September 9th 2023
+weekDay,Saturday
+lotto,4;8;17;24;32;37
+bonus,12
+day,9th
+month,September
+year,2023
+*
+date,September 6th 2023
+weekDay,Wednesday
+lotto,13;22;25;26;32;36
+bonus,21
+day,6th
+month,September
+year,2023
+*
+date,September 2nd 2023
+weekDay,Saturday
+lotto,1;5;6;20;36;39
+bonus,2
+day,2nd
+month,September
+year,2023
+*
+date,August 30th 2023
+weekDay,Wednesday
+lotto,9;17;22;30;36;40
+bonus,20
+day,30th
+month,August
+year,2023
+*
+date,August 26th 2023
+weekDay,Saturday
+lotto,22;23;26;30;36;39
+bonus,28
+day,26th
+month,August
+year,2023
+*
+date,August 23rd 2023
+weekDay,Wednesday
+lotto,1;14;15;17;18;24
+bonus,8
+day,23rd
+month,August
+year,2023
+*
+date,August 19th 2023
+weekDay,Saturday
+lotto,5;18;26;28;31;39
+bonus,16
+day,19th
+month,August
+year,2023
+*
+date,August 16th 2023
+weekDay,Wednesday
+lotto,7;17;19;29;36;38
+bonus,20
+day,16th
+month,August
+year,2023
+*
+date,August 12th 2023
+weekDay,Saturday
+lotto,15;19;20;23;31;33
+bonus,8
+day,12th
+month,August
+year,2023
+*
+date,August 9th 2023
+weekDay,Wednesday
+lotto,4;13;14;34;35;40
+bonus,15
+day,9th
+month,August
+year,2023
+*
+date,August 5th 2023
+weekDay,Saturday
+lotto,18;23;24;26;28;32
+bonus,16
+day,5th
+month,August
+year,2023
+*
+date,August 2nd 2023
+weekDay,Wednesday
+lotto,6;23;25;27;28;32
+bonus,17
+day,2nd
+month,August
+year,2023
+*
+date,July 29th 2023
+weekDay,Saturday
+lotto,4;10;13;18;21;34
+bonus,40
+day,29th
+month,July
+year,2023
+*
+date,July 26th 2023
+weekDay,Wednesday
+lotto,17;19;23;25;27;37
+bonus,13
+day,26th
+month,July
+year,2023
+*
+date,July 22nd 2023
+weekDay,Saturday
+lotto,3;4;12;22;24;25
+bonus,10
+day,22nd
+month,July
+year,2023
+*
+date,July 19th 2023
+weekDay,Wednesday
+lotto,6;20;23;28;35;38
+bonus,2
+day,19th
+month,July
+year,2023
+*
+date,July 15th 2023
+weekDay,Saturday
+lotto,7;11;15;21;24;34
+bonus,6
+day,15th
+month,July
+year,2023
+*
+date,July 12th 2023
+weekDay,Wednesday
+lotto,8;22;29;34;36;37
+bonus,11
+day,12th
+month,July
+year,2023
+*
+date,July 8th 2023
+weekDay,Saturday
+lotto,6;8;10;18;25;32
+bonus,2
+day,8th
+month,July
+year,2023
+*
+date,July 5th 2023
+weekDay,Wednesday
+lotto,4;7;26;29;36;38
+bonus,23
+day,5th
+month,July
+year,2023
+*
+date,July 1st 2023
+weekDay,Saturday
+lotto,9;23;24;25;30;34
+bonus,10
+day,1st
+month,July
+year,2023
+*
+date,June 28th 2023
+weekDay,Wednesday
+lotto,4;5;8;15;31;33
+bonus,29
+day,28th
+month,June
+year,2023
+*
+date,June 24th 2023
+weekDay,Saturday
+lotto,6;7;21;22;23;40
+bonus,29
+day,24th
+month,June
+year,2023
+*
+date,June 21st 2023
+weekDay,Wednesday
+lotto,4;8;10;16;28;32
+bonus,40
+day,21st
+month,June
+year,2023
+*
+date,June 17th 2023
+weekDay,Saturday
+lotto,2;10;13;17;19;21
+bonus,30
+day,17th
+month,June
+year,2023
+*
+date,June 14th 2023
+weekDay,Wednesday
+lotto,2;3;9;18;22;37
+bonus,23
+day,14th
+month,June
+year,2023
+*
+date,June 10th 2023
+weekDay,Saturday
+lotto,2;10;15;23;24;40
+bonus,27
+day,10th
+year,2023
+*
+date,June 7th 2023
+weekDay,Wednesday
+lotto,6;15;24;30;34;37
+bonus,29
+day,7th
+month,June
+year,2023
+*
+date,June 3rd 2023
+weekDay,Saturday
+lotto,3;4;6;19;25;29
+bonus,18
+day,3rd
+month,June
+year,2023
+*
+date,May 31st 2023
+weekDay,Wednesday
+lotto,3;11;14;18;21;25
+bonus,23
+day,31st
+month,May
+year,2023
+*
+date,May 27th 2023
+weekDay,Saturday
+lotto,4;15;17;21;22;29
+bonus,2
+day,27th
+month,May
+year,2023
+*
+date,May 24th 2023
+weekDay,Wednesday
+lotto,5;17;28;30;33;38
+bonus,34
+day,24th
+month,May
+year,2023
+*
+date,May 20th 2023
+weekDay,Saturday
+lotto,14;31;32;37;38;40
+bonus,22
+day,20th
+month,May
+year,2023
+*
+date,May 17th 2023
+weekDay,Wednesday
+lotto,2;12;13;20;23;38
+bonus,36
+day,17th
+month,May
+year,2023
+*
+date,May 13th 2023
+weekDay,Saturday
+lotto,7;16;17;18;19;34
+bonus,26
+day,13th
+month,May
+year,2023
+*
+date,May 10th 2023
+weekDay,Wednesday
+lotto,4;20;22;31;35;38
+bonus,29
+day,10th
+month,May
+year,2023
+*
+date,May 6th 2023
+weekDay,Saturday
+lotto,8;10;15;18;25;27
+bonus,21
+day,6th
+month,May
+year,2023
+*
+date,May 3rd 2023
+weekDay,Wednesday
+lotto,8;11;20;30;33;39
+bonus,18
+day,3rd
+month,May
+year,2023
+*
+date,April 29th 2023
+weekDay,Saturday
+lotto,4;8;25;27;36;40
+bonus,19
+day,29th
+month,April
+year,2023
+*
+date,April 26th 2023
+weekDay,Wednesday
+lotto,3;15;23;29;36;40
+bonus,4
+day,26th
+month,April
+year,2023
+*
+date,April 22nd 2023
+weekDay,Saturday
+lotto,1;12;13;18;21;34
+bonus,6
+day,22nd
+month,April
+year,2023
+*
+date,April 19th 2023
+weekDay,Wednesday
+lotto,2;3;13;25;27;33
+bonus,22
+day,19th
+month,April
+year,2023
+*
+date,April 15th 2023
+weekDay,Saturday
+lotto,1;2;19;23;29;35
+bonus,36
+day,15th
+month,April
+year,2023
+*
+date,April 12th 2023
+weekDay,Wednesday
+lotto,1;10;12;19;28;35
+bonus,34
+day,12th
+month,April
+year,2023
+*
+date,April 8th 2023
+weekDay,Saturday
+lotto,12;24;31;34;36;37
+bonus,39
+day,8th
+month,April
+year,2023
+*
+date,April 5th 2023
+weekDay,Wednesday
+lotto,5;14;17;25;28;38
+bonus,13
+day,5th
+month,April
+year,2023
+*
+date,April 1st 2023
+weekDay,Saturday
+lotto,7;10;18;20;33;40
+bonus,17
+day,1st
+month,April
+year,2023
+*
+date,March 29th 2023
+weekDay,Wednesday
+lotto,14;23;24;35;36;37
+bonus,29
+day,29th
+month,March
+year,2023
+*
+date,March 25th 2023
+weekDay,Saturday
+lotto,4;5;8;19;28;31
+bonus,38
+day,25th
+month,March
+year,2023
+*
+date,March 22nd 2023
+weekDay,Wednesday
+lotto,7;16;29;32;33;38
+bonus,9
+day,22nd
+month,March
+year,2023
+*
+date,March 18th 2023
+weekDay,Saturday
+lotto,4;11;17;27;37;38
+bonus,26
+day,18th
+month,March
+year,2023
+*
+date,March 15th 2023
+weekDay,Wednesday
+lotto,3;4;5;24;33;39
+bonus,16
+day,15th
+month,March
+year,2023
+*
+date,March 11th 2023
+weekDay,Saturday
+lotto,6;19;26;28;37;39
+bonus,27
+day,11th
+month,March
+year,2023
+*
+date,March 8th 2023
+weekDay,Wednesday
+lotto,1;2;9;17;23;39
+bonus,37
+day,8th
+month,March
+year,2023
+*
+date,March 4th 2023
+weekDay,Saturday
+lotto,11;19;21;25;34;35
+bonus,9
+day,4th
+month,March
+year,2023
+*
+date,March 1st 2023
+weekDay,Wednesday
+lotto,14;15;17;26;34;35
+bonus,30
+day,1st
+month,March
+year,2023
+*
+date,February 25th 2023
+weekDay,Saturday
+lotto,14;18;22;28;30;32
+bonus,23
+day,25th
+month,February
+year,2023
+*
+date,February 22nd 2023
+weekDay,Wednesday
+lotto,1;2;23;25;30;31
+bonus,3
+day,22nd
+month,February
+year,2023
+*
+date,February 18th 2023
+weekDay,Saturday
+lotto,4;5;16;20;22;33
+bonus,26
+day,18th
+month,February
+year,2023
+*
+date,February 15th 2023
+weekDay,Wednesday
+lotto,7;24;26;27;28;39
+bonus,37
+day,15th
+month,February
+year,2023
+*
+date,February 11th 2023
+weekDay,Saturday
+lotto,5;14;28;32;34;36
+bonus,10
+day,11th
+month,February
+year,2023
+*
+date,February 8th 2023
+weekDay,Wednesday
+lotto,2;10;15;18;24;29
+bonus,5
+day,8th
+month,February
+year,2023
+*
+date,February 4th 2023
+weekDay,Saturday
+lotto,11;13;19;21;36;40
+bonus,27
+day,4th
+month,February
+year,2023
+*
+date,February 1st 2023
+weekDay,Wednesday
+lotto,1;3;9;11;31;39
+bonus,24
+day,1st
+month,February
+year,2023
+*
+date,January 28th 2023
+weekDay,Saturday
+lotto,13;16;17;22;27;28
+bonus,3
+day,28th
+month,January
+year,2023
+*
+date,January 25th 2023
+weekDay,Wednesday
+lotto,5;11;12;18;24;30
+bonus,20
+day,25th
+month,January
+year,2023
+*
+date,January 21st 2023
+weekDay,Saturday
+lotto,4;19;28;35;37;40
+bonus,30
+day,21st
+month,January
+year,2023
+*
+date,January 18th 2023
+weekDay,Wednesday
+lotto,1;4;7;23;28;35
+bonus,17
+day,18th
+month,January
+year,2023
+*
+date,January 14th 2023
+weekDay,Saturday
+lotto,5;20;28;29;32;38
+bonus,3
+day,14th
+month,January
+year,2023
+*
+date,January 11th 2023
+weekDay,Wednesday
+lotto,9;10;18;22;24;33
+bonus,4
+day,11th
+month,January
+year,2023
+*
+date,January 7th 2023
+weekDay,Saturday
+lotto,1;3;7;15;24;30
+bonus,22
+day,7th
+month,January
+year,2023
+*
+date,January 4th 2023
+weekDay,Wednesday
+lotto,5;9;13;16;23;25
+bonus,14
+day,4th
+month,January
+year,2023

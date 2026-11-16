@@ -1,0 +1,65 @@
+<!doctype html>
+  <html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Finn's World personal productivity dashboard">
+      <title>Finn's World</title>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="css/index.css">
+    </head>
+    <body>
+      <div class="app-shell">
+        <aside class="sidebar" id="sidebar">
+          <div class="brand">
+            <div class="brand-mark">FW</div>
+            <div>
+              <div class="brand-name">Finn's World</div>
+              <div class="brand-subtitle">Personal workspace</div>
+          </div>
+          </div>
+
+          <nav class="main-nav" aria-label="Main navigation">
+            <button class="nav-item active" data-page="welcome" type="button">
+              <span class="nav-icon">⌂</span>
+              <span>Welcome</span>
+            </button>
+            <button class="nav-item locked" data-page="cv" type="button" disabled>
+              <span class="nav-icon">▤</span>
+              <span>CV</span>
+              <span class="lock">🔒</span>
+            </button>
+            <button class="nav-item locked" data-page="lotto" type="button" disabled>
+              <span class="nav-icon">✣</span>
+              <span>NZ Lotto</span>
+              <span class="lock">🔒</span>
+            </button>
+            <button class="nav-item locked" data-page="everyday" type="button" disabled>
+              <span class="nav-icon">⌕</span>
+              <span>Everyday</span>
+              <span class="lock">🔒</span>
+            </button>
+            <button class="nav-item locked" data-page="calendar-note" type="button" disabled>
+              <span class="nav-icon">□</span>
+              <span>Calendar Note</span>
+              <span class="lock">🔒</span>
+            </button>
+          </nav>
+          
+          <div class="sidebar-footer">
+            <div class="status-dot"></div>
+            <span id="auth-status">Please login</span>
+            <button id="logout-btn" class="logout-btn hidden" type="button">Logout</button>
+          </div>
+        </aside>
+
+        <main class="main-content">
+          <div class="page-host" id="page-container" aria-live="polite"></div>
+          <div class="toast-stack" id="toast-stack"></div>
+        </main>
+      </div>
+      <script src="js/index.js" defer></script>
+    </body>
+  </html>

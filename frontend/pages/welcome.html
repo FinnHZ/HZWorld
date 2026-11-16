@@ -1,0 +1,30 @@
+<section class="welcome-page" data-page-script="js/welcome.js" data-page-style="css/welcome.css">
+  <div class="welcome-hero">
+    <div class="hero-copy">
+      <div class="eyebrow">PERSONAL WORKSPACE</div>
+      <h1>Welcome to<br><span>Finn's World!</span></h1>
+      <p>Explore my handy tools and insights.</p>
+    </div>
+    <div class="city-placeholder">
+      <div class="placeholder-label">IMAGE AREA · Replace with your background image</div>
+      <div class="city-glow"></div>
+      <div class="city-blocks"></div>
+    </div>
+  </div>
+  <div class="login-card" id="login-card">
+    <div class="login-icon">🔒</div>
+    <h2>Please Login</h2>
+    <form id="login-form">
+      <label>Username<input id="login-username" autocomplete="username" placeholder="Username" required></label>
+      <label>Password<input id="login-password" type="password" autocomplete="current-password" placeholder="Password" required></label>
+      <button class="primary-btn" type="submit">Login</button>
+    </form>
+    <p class="login-hint" id="login-message">Use the account configured in the backend .env file.</p>
+  </div>
+  <div class="logged-in-card hidden" id="logged-in-card">
+    <div class="success-icon">✓</div>
+    <h2>Welcome back</h2>
+    <p id="logged-in-user"></p>
+    <button class="primary-btn" id="enter-workspace">Open Workspace</button>
+  </div>
+</section>

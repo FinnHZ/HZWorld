@@ -1,0 +1,46 @@
+<div class="everyday-page" data-page-script="../js/everyday.js" data-page-style="../css/everyday.css">
+  <header class="everyday-header"><div><h1>Everyday</h1><p>Your daily information, income calculator and personal finance dashboard.</p></div><span class="admin-chip">Administrator workspace</span></header>
+  <section class="everyday-grid top-widgets">
+    <article class="ev-card"><div class="ev-card-head"><h2>Weather</h2><span>Refreshes every minute</span></div><div id="weather-cards" class="weather-cards"><p class="ev-muted">Loading weather…</p></div></article>
+    <article class="ev-card"><div class="ev-card-head"><h2>NZD ⇄ CNY Exchange</h2><span>Checks every 5 seconds</span></div><div id="exchange-content" class="exchange-content"><p class="ev-muted">Loading exchange rates…</p></div><small id="exchange-updated" class="ev-muted"></small></article>
+    <article class="ev-card rates-card"><div class="ev-card-head"><h2>NZ Home Loan Rates</h2><span>Floating: every minute · Fixed: on page login</span></div><div id="interest-rates"><p class="ev-muted">Loading NZMAI rates…</p></div><small id="rates-updated" class="ev-muted"></small><a href="https://nzmai.co.nz/interest-rates" target="_blank" rel="noopener">Source: NZMAI</a></article>
+  </section>
+
+  <section class="ev-card income-card"><div class="ev-card-head"><div><h2>New Zealand Income Calculator</h2><p>Enter annual income and your deduction assumptions.</p></div></div>
+    <form id="income-form" class="income-form">
+      <label>Annual income (NZD)<input id="annual-income" type="number" min="0" step="0.01" placeholder="e.g. 85000" required></label>
+      <label>Annual working hours<input id="annual-hours" type="number" min="1" step="1" required></label>
+      <label>KiwiSaver contribution (%)<input id="kiwisaver-rate" type="number" min="0" max="100" step="0.01" required></label>
+      <label>ACC earners levy (%)<input id="acc-rate" type="number" min="0" max="100" step="0.01" required></label>
+      <div class="tax-rates"><h3>Marginal income tax rates (%)</h3><div class="tax-rate-grid">
+        <label>First $15,600<select id="tax-rate-1"></select></label><label>$15,601–$53,500<select id="tax-rate-2"></select></label><label>$53,501–$78,100<select id="tax-rate-3"></select></label><label>$78,101–$180,000<select id="tax-rate-4"></select></label><label>Over $180,000<select id="tax-rate-5"></select></label>
+      </div></div>
+      <div class="income-actions"><button class="ev-btn primary" type="submit">Submit & Calculate</button><button class="ev-btn secondary" id="income-reset" type="button">Reset</button><span id="income-message" aria-live="polite"></span></div>
+    </form>
+    <div id="income-results" class="income-results" aria-live="polite"><p class="ev-muted">Calculation results will appear here.</p></div>
+  </section>
+
+  <section class="finance-section"><div class="section-intro"><div><h2>Finance Calendar & Analytics</h2><p>Record income and expenses by date, then explore your financial trends.</p></div><div class="range-controls"><label>From <input id="finance-from" type="date"></label><label>To <input id="finance-to" type="date"></label><button class="ev-btn secondary" id="refresh-finance" type="button">Apply range</button></div></div>
+    <div class="finance-layout">
+      <section class="ev-card finance-calendar-card"><div class="calendar-toolbar"><button id="finance-prev" class="ev-icon-btn" type="button" aria-label="Previous month">‹</button><h3 id="finance-month-title">Loading…</h3><button id="finance-next" class="ev-icon-btn" type="button" aria-label="Next month">›</button><button id="finance-today" class="ev-btn secondary" type="button">Today</button></div>
+        <div class="weekday-row"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div><div id="finance-calendar-grid" class="calendar-grid"></div>
+        <div class="day-summary"><div><small>Selected date</small><strong id="selected-finance-date">—</strong></div><div><small>Income</small><strong id="selected-income">$0.00</strong></div><div><small>Expense</small><strong id="selected-expense">$0.00</strong></div><div><small>Net</small><strong id="selected-net">$0.00</strong></div></div>
+        <div class="selected-records-head"><h3>Selected day records</h3><span id="selected-record-count">0 records</span></div><div id="selected-records" class="selected-records"><p class="ev-muted">No records for this date.</p></div>
+      </section>
+      <aside class="chart-column">
+        <article class="ev-card"><h3>Income composition</h3><div id="income-pie" class="ev-chart"></div></article>
+        <article class="ev-card"><h3>Expense composition</h3><div id="expense-pie" class="ev-chart"></div></article>
+      </aside>
+    </div>
+    <article class="ev-card chart-wide"><div class="chart-heading"><h3>Income vs Expense</h3><div class="group-toggle" role="group" aria-label="Chart grouping"><button data-group="day" class="active" type="button">Day</button><button data-group="week" type="button">Week</button><button data-group="month" type="button">Month</button><button data-group="year" type="button">Year</button></div></div><div id="income-expense-chart" class="ev-chart large"></div></article>
+    <article class="ev-card chart-wide"><h3>Detailed income and expense categories</h3><div class="detail-charts"><div><h4>Income details</h4><div id="income-detail-chart" class="ev-chart large"></div></div><div><h4>Expense details</h4><div id="expense-detail-chart" class="ev-chart large"></div></div></div></article>
+  </section>
+  <div id="finance-modal" class="ev-modal" hidden><div class="ev-modal-panel" role="dialog" aria-modal="true" aria-labelledby="finance-modal-title"><div class="modal-heading"><div><h2 id="finance-modal-title">Daily income & expenses</h2><p id="modal-date-label"></p></div><button id="finance-modal-close" class="ev-icon-btn" type="button" aria-label="Close">×</button></div>
+    <div class="entry-type-switch"><label><input type="radio" name="entry-type" value="income" checked> Income</label><label><input type="radio" name="entry-type" value="expense"> Expense</label></div>
+    <div class="entry-table-wrap"><table class="entry-table"><thead><tr><th>Name</th><th>Amount (NZD)</th><th>Category</th><th></th></tr></thead><tbody id="entry-rows"></tbody></table></div>
+    <button id="add-entry-row" class="ev-btn secondary" type="button">+ Add item</button>
+    <div class="modal-total"><span>Daily total (current type)</span><strong id="modal-total">$0.00</strong></div>
+    <div class="modal-actions"><button id="finance-submit" class="ev-btn primary" type="button">Submit</button><label class="ev-btn secondary upload-label">Upload image<input id="receipt-upload" type="file" accept="image/jpeg,image/png"></label><button id="finance-reset" class="ev-btn danger" type="button">Reset</button></div><p id="ocr-status" class="ev-muted" aria-live="polite">Upload a JPG/PNG receipt; OCR suggestions must be checked before saving.</p>
+  </div></div>
+  <div id="everyday-toast" class="everyday-toast" role="status" aria-live="polite"></div>
+</div>

@@ -1,0 +1,840 @@
+*
+date,December 31st 2016
+weekDay,Saturday
+lotto,6;8;11;16;21;34
+bonus,12
+day,31st
+month,December
+year,2016
+*
+date,December 28th 2016
+weekDay,Wednesday
+lotto,17;19;22;28;35;36
+bonus,11
+day,28th
+month,December
+year,2016
+*
+date,December 24th 2016
+weekDay,Saturday
+lotto,3;6;9;25;26;28
+bonus,31
+day,24th
+month,December
+year,2016
+*
+date,December 21st 2016
+weekDay,Wednesday
+lotto,1;5;13;26;30;32
+bonus,27
+day,21st
+month,December
+year,2016
+*
+date,December 17th 2016
+weekDay,Saturday
+lotto,2;12;22;24;26;31
+bonus,8
+day,17th
+month,December
+year,2016
+*
+date,December 14th 2016
+weekDay,Wednesday
+lotto,10;12;21;24;29;40
+bonus,19
+day,14th
+month,December
+year,2016
+*
+date,December 10th 2016
+weekDay,Saturday
+lotto,14;19;24;33;35;36
+bonus,27
+day,10th
+month,December
+year,2016
+*
+date,December 7th 2016
+weekDay,Wednesday
+lotto,10;12;19;24;26;34
+bonus,16
+day,7th
+month,December
+year,2016
+*
+date,December 3rd 2016
+weekDay,Saturday
+lotto,5;6;10;15;28;37
+bonus,29
+day,3rd
+month,December
+year,2016
+*
+date,November 30th 2016
+weekDay,Wednesday
+lotto,11;26;29;32;33;37
+bonus,9
+day,30th
+month,November
+year,2016
+*
+date,November 26th 2016
+weekDay,Saturday
+lotto,17;19;23;29;31;36
+bonus,13
+day,26th
+month,November
+year,2016
+*
+date,November 23rd 2016
+weekDay,Wednesday
+lotto,1;2;6;7;30;40
+bonus,36
+day,23rd
+month,November
+year,2016
+*
+date,November 19th 2016
+weekDay,Saturday
+lotto,10;13;17;20;23;28
+bonus,9
+day,19th
+month,November
+year,2016
+*
+date,November 16th 2016
+weekDay,Wednesday
+lotto,4;7;11;17;32;37
+bonus,13
+day,16th
+month,November
+year,2016
+*
+date,November 12th 2016
+weekDay,Saturday
+lotto,4;13;27;32;33;38
+bonus,35
+day,12th
+month,November
+year,2016
+*
+date,November 9th 2016
+weekDay,Wednesday
+lotto,1;3;21;22;29;30
+bonus,5
+day,9th
+month,November
+year,2016
+*
+date,November 5th 2016
+weekDay,Saturday
+lotto,3;11;16;24;38;40
+bonus,35
+day,5th
+month,November
+year,2016
+*
+date,November 2nd 2016
+weekDay,Wednesday
+lotto,2;9;13;25;29;36
+bonus,11
+day,2nd
+month,November
+year,2016
+*
+date,October 29th 2016
+weekDay,Saturday
+lotto,15;19;22;23;30;36
+bonus,31
+day,29th
+month,October
+year,2016
+*
+date,October 26th 2016
+weekDay,Wednesday
+lotto,3;4;6;11;28;29
+bonus,32
+day,26th
+month,October
+year,2016
+*
+date,October 22nd 2016
+weekDay,Saturday
+lotto,17;19;20;21;26;35
+bonus,4
+day,22nd
+month,October
+year,2016
+*
+date,October 19th 2016
+weekDay,Wednesday
+lotto,9;18;20;21;28;30
+bonus,15
+day,19th
+month,October
+year,2016
+*
+date,October 15th 2016
+weekDay,Saturday
+lotto,8;15;20;29;35;39
+bonus,21
+day,15th
+month,October
+year,2016
+*
+date,October 12th 2016
+weekDay,Wednesday
+lotto,1;5;11;12;14;15
+bonus,35
+day,12th
+month,October
+year,2016
+*
+date,October 8th 2016
+weekDay,Saturday
+lotto,2;19;22;23;28;29
+bonus,17
+day,8th
+month,October
+year,2016
+*
+date,October 5th 2016
+weekDay,Wednesday
+lotto,11;12;24;30;36;37
+bonus,6
+day,5th
+month,October
+year,2016
+*
+date,October 1st 2016
+weekDay,Saturday
+lotto,7;11;16;23;26;30
+bonus,27
+day,1st
+month,October
+year,2016
+*
+date,September 28th 2016
+weekDay,Wednesday
+lotto,3;5;15;27;37;38
+bonus,32
+day,28th
+month,September
+year,2016
+*
+date,September 24th 2016
+weekDay,Saturday
+lotto,11;14;17;27;32;39
+bonus,34
+day,24th
+month,September
+year,2016
+*
+date,September 21st 2016
+weekDay,Wednesday
+lotto,10;11;17;21;31;34
+bonus,15
+day,21st
+month,September
+year,2016
+*
+date,September 17th 2016
+weekDay,Saturday
+lotto,6;16;22;25;34;40
+bonus,37
+day,17th
+month,September
+year,2016
+*
+date,September 14th 2016
+weekDay,Wednesday
+lotto,3;8;14;18;23;40
+bonus,13
+day,14th
+month,September
+year,2016
+*
+date,September 10th 2016
+weekDay,Saturday
+lotto,5;10;11;15;18;38
+bonus,6
+day,10th
+month,September
+year,2016
+*
+date,September 7th 2016
+weekDay,Wednesday
+lotto,7;22;29;32;36;39
+bonus,18
+day,7th
+month,September
+year,2016
+*
+date,September 3rd 2016
+weekDay,Saturday
+lotto,18;24;25;27;32;34
+bonus,7
+day,3rd
+month,September
+year,2016
+*
+date,August 31st 2016
+weekDay,Wednesday
+lotto,16;21;28;31;33;37
+bonus,32
+day,31st
+month,August
+year,2016
+*
+date,August 27th 2016
+weekDay,Saturday
+lotto,4;6;7;9;15;25
+bonus,34
+day,27th
+month,August
+year,2016
+*
+date,August 24th 2016
+weekDay,Wednesday
+lotto,14;15;17;32;38;39
+bonus,40
+day,24th
+month,August
+year,2016
+*
+date,August 20th 2016
+weekDay,Saturday
+lotto,11;19;27;28;29;36
+bonus,32
+day,20th
+month,August
+year,2016
+*
+date,August 17th 2016
+weekDay,Wednesday
+lotto,2;3;6;10;14;26
+bonus,11
+day,17th
+month,August
+year,2016
+*
+date,August 13th 2016
+weekDay,Saturday
+lotto,21;22;23;24;26;40
+bonus,28
+day,13th
+month,August
+year,2016
+*
+date,August 10th 2016
+weekDay,Wednesday
+lotto,4;5;11;14;31;36
+bonus,39
+day,10th
+month,August
+year,2016
+*
+date,August 6th 2016
+weekDay,Saturday
+lotto,8;10;18;23;28;34
+bonus,37
+day,6th
+month,August
+year,2016
+*
+date,August 3rd 2016
+weekDay,Wednesday
+lotto,10;15;28;29;33;35
+bonus,21
+day,3rd
+month,August
+year,2016
+*
+date,July 30th 2016
+weekDay,Saturday
+lotto,4;8;15;26;27;29
+bonus,30
+day,30th
+month,July
+year,2016
+*
+date,July 27th 2016
+weekDay,Wednesday
+lotto,3;7;18;20;22;30
+bonus,31
+day,27th
+month,July
+year,2016
+*
+date,July 23rd 2016
+weekDay,Saturday
+lotto,5;6;9;21;25;33
+bonus,24
+day,23rd
+month,July
+year,2016
+*
+date,July 20th 2016
+weekDay,Wednesday
+lotto,6;15;25;34;38;39
+bonus,9
+day,20th
+month,July
+year,2016
+*
+date,July 16th 2016
+weekDay,Saturday
+lotto,8;10;24;26;30;40
+bonus,23
+day,16th
+month,July
+year,2016
+*
+date,July 13th 2016
+weekDay,Wednesday
+lotto,4;14;16;17;22;32
+bonus,18
+day,13th
+month,July
+year,2016
+*
+date,July 9th 2016
+weekDay,Saturday
+lotto,3;18;27;29;33;37
+bonus,36
+day,9th
+month,July
+year,2016
+*
+date,July 6th 2016
+weekDay,Wednesday
+lotto,1;6;12;14;29;30
+bonus,32
+day,6th
+month,July
+year,2016
+*
+date,July 2nd 2016
+weekDay,Saturday
+lotto,5;6;13;20;28;39
+bonus,12
+day,2nd
+month,July
+year,2016
+*
+date,June 29th 2016
+weekDay,Wednesday
+lotto,1;6;7;25;31;32
+bonus,35
+day,29th
+month,June
+year,2016
+*
+date,June 25th 2016
+weekDay,Saturday
+lotto,15;19;21;24;25;29
+bonus,5
+day,25th
+month,June
+year,2016
+*
+date,June 22nd 2016
+weekDay,Wednesday
+lotto,9;10;13;14;25;37
+bonus,22
+day,22nd
+month,June
+year,2016
+*
+date,June 18th 2016
+weekDay,Saturday
+lotto,2;17;23;33;34;36
+bonus,24
+day,18th
+month,June
+year,2016
+*
+date,June 15th 2016
+weekDay,Wednesday
+lotto,8;24;28;30;32;36
+bonus,6
+day,15th
+month,June
+year,2016
+*
+date,June 11th 2016
+weekDay,Saturday
+lotto,1;2;7;16;17;18
+bonus,13
+day,11th
+month,June
+year,2016
+*
+date,June 8th 2016
+weekDay,Wednesday
+lotto,16;21;24;32;39;40
+bonus,1
+day,8th
+month,June
+year,2016
+*
+date,June 4th 2016
+weekDay,Saturday
+lotto,7;19;20;32;33;35
+bonus,8
+day,4th
+month,June
+year,2016
+*
+date,June 1st 2016
+weekDay,Wednesday
+lotto,7;12;14;18;31;32
+bonus,15
+day,1st
+month,June
+year,2016
+*
+date,May 28th 2016
+weekDay,Saturday
+lotto,6;9;29;32;33;40
+bonus,5
+day,28th
+month,May
+year,2016
+*
+date,May 25th 2016
+weekDay,Wednesday
+lotto,13;19;29;30;32;40
+bonus,31
+day,25th
+month,May
+year,2016
+*
+date,May 21st 2016
+weekDay,Saturday
+lotto,8;11;24;26;27;37
+bonus,39
+day,21st
+month,May
+year,2016
+*
+date,May 18th 2016
+weekDay,Wednesday
+lotto,14;20;23;25;30;38
+bonus,9
+day,18th
+month,May
+year,2016
+*
+date,May 14th 2016
+weekDay,Saturday
+lotto,3;6;13;18;34;40
+bonus,15
+day,14th
+month,May
+year,2016
+*
+date,May 11th 2016
+weekDay,Wednesday
+lotto,9;15;22;27;32;40
+bonus,33
+day,11th
+month,May
+year,2016
+*
+date,May 7th 2016
+weekDay,Saturday
+lotto,12;13;19;25;32;38
+bonus,27
+day,7th
+month,May
+year,2016
+*
+date,May 4th 2016
+weekDay,Wednesday
+lotto,3;13;19;26;39;40
+bonus,35
+day,4th
+month,May
+year,2016
+*
+date,April 30th 2016
+weekDay,Saturday
+lotto,11;20;22;23;31;36
+bonus,3
+day,30th
+month,April
+year,2016
+*
+date,April 27th 2016
+weekDay,Wednesday
+lotto,1;12;15;20;29;32
+bonus,10
+day,27th
+month,April
+year,2016
+*
+date,April 23rd 2016
+weekDay,Saturday
+lotto,19;21;24;26;30;37
+bonus,2
+day,23rd
+month,April
+year,2016
+*
+date,April 20th 2016
+weekDay,Wednesday
+lotto,2;3;9;12;21;26
+bonus,17
+day,20th
+month,April
+year,2016
+*
+date,April 16th 2016
+weekDay,Saturday
+lotto,3;4;19;20;28;35
+bonus,25
+day,16th
+month,April
+year,2016
+*
+date,April 13th 2016
+weekDay,Wednesday
+lotto,4;14;15;17;29;36
+bonus,19
+day,13th
+month,April
+year,2016
+*
+date,April 9th 2016
+weekDay,Saturday
+lotto,1;5;9;22;30;35
+bonus,8
+day,9th
+month,April
+year,2016
+*
+date,April 6th 2016
+weekDay,Wednesday
+lotto,7;22;27;28;36;40
+bonus,9
+day,6th
+month,April
+year,2016
+*
+date,April 2nd 2016
+weekDay,Saturday
+lotto,7;10;13;21;28;31
+bonus,30
+day,2nd
+month,April
+year,2016
+*
+date,March 30th 2016
+weekDay,Wednesday
+lotto,12;13;22;23;24;27
+bonus,1
+day,30th
+month,March
+year,2016
+*
+date,March 26th 2016
+weekDay,Saturday
+lotto,9;12;14;18;35;36
+bonus,39
+day,26th
+month,March
+year,2016
+*
+date,March 23rd 2016
+weekDay,Wednesday
+lotto,6;12;16;18;31;37
+bonus,10
+day,23rd
+month,March
+year,2016
+*
+date,March 19th 2016
+weekDay,Saturday
+lotto,1;5;7;12;24;38
+bonus,17
+day,19th
+month,March
+year,2016
+*
+date,March 16th 2016
+weekDay,Wednesday
+lotto,8;9;18;23;37;39
+bonus,11
+day,16th
+month,March
+year,2016
+*
+date,March 12th 2016
+weekDay,Saturday
+lotto,7;9;12;15;21;25
+bonus,8
+day,12th
+month,March
+year,2016
+*
+date,March 9th 2016
+weekDay,Wednesday
+lotto,9;15;16;17;18;28
+bonus,21
+day,9th
+month,March
+year,2016
+*
+date,March 5th 2016
+weekDay,Saturday
+lotto,1;5;8;17;29;35
+bonus,24
+day,5th
+month,March
+year,2016
+*
+date,March 2nd 2016
+weekDay,Wednesday
+lotto,5;11;21;22;26;36
+bonus,6
+day,2nd
+month,March
+year,2016
+*
+date,February 27th 2016
+weekDay,Saturday
+lotto,14;15;18;22;30;33
+bonus,19
+day,27th
+month,February
+year,2016
+*
+date,February 24th 2016
+weekDay,Wednesday
+lotto,2;5;17;19;20;29
+bonus,24
+day,24th
+month,February
+year,2016
+*
+date,February 20th 2016
+weekDay,Saturday
+lotto,5;11;20;22;31;33
+bonus,24
+day,20th
+month,February
+year,2016
+*
+date,February 17th 2016
+weekDay,Wednesday
+lotto,3;10;20;24;30;33
+bonus,25
+day,17th
+month,February
+year,2016
+*
+date,February 13th 2016
+weekDay,Saturday
+lotto,3;7;8;9;17;35
+bonus,10
+day,13th
+month,February
+year,2016
+*
+date,February 10th 2016
+weekDay,Wednesday
+lotto,11;12;13;17;18;19
+bonus,7
+day,10th
+month,February
+year,2016
+*
+date,February 6th 2016
+weekDay,Saturday
+lotto,8;28;30;34;36;37
+bonus,14
+day,6th
+month,February
+year,2016
+*
+date,February 3rd 2016
+weekDay,Wednesday
+lotto,5;10;11;14;15;18
+bonus,37
+day,3rd
+month,February
+year,2016
+*
+date,January 30th 2016
+weekDay,Saturday
+lotto,10;14;21;28;29;37
+bonus,30
+day,30th
+month,January
+year,2016
+*
+date,January 27th 2016
+weekDay,Wednesday
+lotto,6;7;11;13;32;34
+bonus,30
+day,27th
+month,January
+year,2016
+*
+date,January 23rd 2016
+weekDay,Saturday
+lotto,2;7;14;16;17;25
+bonus,20
+day,23rd
+month,January
+year,2016
+*
+date,January 20th 2016
+weekDay,Wednesday
+lotto,4;12;17;24;28;34
+bonus,16
+day,20th
+month,January
+year,2016
+*
+date,January 16th 2016
+weekDay,Saturday
+lotto,5;26;33;34;38;40
+bonus,24
+day,16th
+month,January
+year,2016
+*
+date,January 13th 2016
+weekDay,Wednesday
+lotto,3;15;22;28;35;39
+bonus,29
+day,13th
+month,January
+year,2016
+*
+date,January 9th 2016
+weekDay,Saturday
+lotto,3;8;21;30;31;37
+bonus,24
+day,9th
+month,January
+year,2016
+*
+date,January 6th 2016
+weekDay,Wednesday
+lotto,9;13;27;28;29;40
+bonus,1
+day,6th
+month,January
+year,2016
+*
+date,January 2nd 2016
+weekDay,Saturday
+lotto,1;5;22;24;30;32
+bonus,11
+day,2nd
+month,January
+year,2016

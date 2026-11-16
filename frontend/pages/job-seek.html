@@ -1,0 +1,49 @@
+<section class="job-page" data-page-script="../js/job-seek.js" data-page-style="../css/job-seek.css">
+  <header class="page-header">
+    <div>
+      <div class="eyebrow">CAREER SEARCH</div>
+      <h1>Job Seek</h1>
+      <p>Search settings, CV matching and AI-assisted job analysis.</p>
+    </div>
+  </header>
+
+  <section class="panel">
+    <div class="section-number">1. SEARCH PLATFORMS & REGION</div>
+    <div class="filters">
+      <div class="check-group" id="source-checks"></div>
+      <select id="country-select"></select>
+      <button class="primary-small" id="job-refresh">↻ Refresh</button>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="section-number">2. CV FILES</div>
+    <div class="cv-upload-row">
+      <input type="file" id="cv-file" accept="application/pdf">
+      <button class="primary-small" id="cv-upload">Upload</button>
+      <button class="light-btn" id="cv-clear">Clear</button>
+      <span id="cv-current">No file selected</span>
+      <select id="cv-library">
+        <option value="">Stored CV files</option>
+      </select>
+    </div>
+  </section>
+
+  <section class="jobs-section">
+    <div class="section-number">3. AVAILABLE JOBS</div>
+    <div id="job-list" class="job-list"></div>
+  </section>
+  
+  <div class="modal hidden" id="job-modal">
+    <div class="modal-card">
+      <div class="modal-head">
+        <h2>AI Job Analysis</h2>
+        <button data-close>×</button>
+      </div>
+      <div id="ai-result" class="ai-result"></div>
+      <div class="modal-actions">
+        <button class="primary-small" data-close>Close</button>
+      </div>
+    </div>
+  </div>
+</section>

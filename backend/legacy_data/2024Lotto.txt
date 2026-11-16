@@ -1,0 +1,832 @@
+*
+date,December 28th 2024
+weekDay,Saturday
+lotto,2;9;19;26;30;36
+bonus,13
+day,28th
+month,December
+year,2024
+*
+date,December 25th 2024
+weekDay,Wednesday
+lotto,6;13;15;18;29;31
+bonus,26
+day,25th
+month,December
+year,2024
+*
+date,December 21st 2024
+weekDay,Saturday
+lotto,2;3;9;21;24;33
+bonus,11
+day,21st
+month,December
+year,2024
+*
+date,December 18th 2024
+weekDay,Wednesday
+lotto,3;13;14;23;31;35
+bonus,32
+day,18th
+month,December
+year,2024
+*
+date,December 14th 2024
+weekDay,Saturday
+lotto,10;14;17;21;24;32
+bonus,4
+day,14th
+month,December
+year,2024
+*
+date,December 11th 2024
+weekDay,Wednesday
+lotto,18;19;25;32;35;39
+bonus,9
+day,11th
+month,December
+year,2024
+*
+date,December 7th 2024
+weekDay,Saturday
+lotto,3;7;16;24;27;29
+bonus,13
+day,7th
+month,December
+year,2024
+*
+date,December 4th 2024
+weekDay,Wednesday
+lotto,6;7;17;20;23;35
+bonus,39
+day,4th
+month,December
+year,2024
+*
+date,November 30th 2024
+weekDay,Saturday
+lotto,3;10;17;25;27;28
+bonus,11
+day,30th
+month,November
+year,2024
+*
+date,November 27th 2024
+weekDay,Wednesday
+lotto,12;17;25;27;28;39
+bonus,5
+day,27th
+month,November
+year,2024
+*
+date,November 23rd 2024
+weekDay,Saturday
+lotto,3;17;22;27;29;40
+bonus,9
+day,23rd
+month,November
+year,2024
+*
+date,November 20th 2024
+weekDay,Wednesday
+lotto,7;15;20;30;38;40
+bonus,16
+day,20th
+month,November
+year,2024
+*
+date,November 16th 2024
+weekDay,Saturday
+lotto,3;5;12;19;28;39
+bonus,7
+day,16th
+month,November
+year,2024
+*
+date,November 13th 2024
+weekDay,Wednesday
+lotto,3;11;29;30;32;38
+bonus,23
+day,13th
+month,November
+year,2024
+*
+date,November 9th 2024
+weekDay,Saturday
+lotto,2;12;13;16;18;28
+bonus,21
+day,9th
+month,November
+year,2024
+*
+date,November 6th 2024
+weekDay,Wednesday
+lotto,7;17;30;31;38;40
+bonus,14
+day,6th
+month,November
+year,2024
+*
+date,November 2nd 2024
+weekDay,Saturday
+lotto,5;13;21;29;33;39
+bonus,23
+day,2nd
+month,November
+year,2024
+*
+date,October 30th 2024
+weekDay,Wednesday
+lotto,10;22;24;25;31;36
+bonus,39
+day,30th
+month,October
+year,2024
+*
+date,October 26th 2024
+weekDay,Saturday
+lotto,1;10;17;25;26;28
+bonus,19
+day,26th
+month,October
+year,2024
+*
+date,October 23rd 2024
+weekDay,Wednesday
+lotto,12;17;21;28;30;32
+bonus,36
+day,23rd
+month,October
+year,2024
+*
+date,October 19th 2024
+weekDay,Saturday
+lotto,2;15;20;21;26;30
+bonus,5
+day,19th
+month,October
+year,2024
+*
+date,October 16th 2024
+weekDay,Wednesday
+lotto,5;6;11;17;18;40
+bonus,19
+day,16th
+month,October
+year,2024
+*
+date,October 12th 2024
+weekDay,Saturday
+lotto,10;11;20;24;28;33
+bonus,23
+day,12th
+month,October
+year,2024
+*
+date,October 9th 2024
+weekDay,Wednesday
+lotto,1;3;10;24;32;38
+bonus,7
+day,9th
+month,October
+year,2024
+*
+date,October 5th 2024
+weekDay,Saturday
+lotto,2;3;11;12;30;36
+bonus,6
+day,5th
+month,October
+year,2024
+*
+date,October 2nd 2024
+weekDay,Wednesday
+lotto,10;12;22;28;31;39
+bonus,17
+day,2nd
+month,October
+year,2024
+*
+date,September 28th 2024
+weekDay,Saturday
+lotto,12;16;24;28;34;35
+bonus,32
+day,28th
+month,September
+year,2024
+*
+date,September 25th 2024
+weekDay,Wednesday
+lotto,2;3;5;17;27;30
+bonus,10
+day,25th
+month,September
+year,2024
+*
+date,September 21st 2024
+weekDay,Saturday
+lotto,10;12;19;21;25;36
+bonus,34
+day,21st
+month,September
+year,2024
+*
+date,September 18th 2024
+weekDay,Wednesday
+lotto,1;5;8;19;34;37
+bonus,13
+day,18th
+month,September
+year,2024
+*
+date,September 14th 2024
+weekDay,Saturday
+lotto,3;15;18;22;31;32
+bonus,27
+day,14th
+month,September
+year,2024
+*
+date,September 11th 2024
+weekDay,Wednesday
+lotto,3;10;15;19;22;26
+bonus,4
+day,11th
+month,September
+year,2024
+*
+date,September 7th 2024
+weekDay,Saturday
+lotto,2;4;8;9;33;40
+bonus,17
+day,7th
+month,September
+year,2024
+*
+date,September 4th 2024
+weekDay,Wednesday
+lotto,9;16;28;31;35;36
+bonus,24
+day,4th
+month,September
+year,2024
+*
+date,August 31st 2024
+weekDay,Saturday
+lotto,8;14;16;24;34;39
+bonus,4
+day,31st
+month,August
+year,2024
+*
+date,August 28th 2024
+weekDay,Wednesday
+lotto,1;4;20;31;35;37
+bonus,13
+day,28th
+month,August
+year,2024
+*
+date,August 24th 2024
+weekDay,Saturday
+lotto,5;10;14;19;25;38
+bonus,34
+day,24th
+month,August
+year,2024
+*
+date,August 21st 2024
+weekDay,Wednesday
+lotto,7;12;16;17;30;38
+bonus,6
+day,21st
+month,August
+year,2024
+*
+date,August 17th 2024
+weekDay,Saturday
+lotto,7;22;33;34;36;37
+bonus,32
+day,17th
+month,August
+year,2024
+*
+date,August 14th 2024
+weekDay,Wednesday
+lotto,5;12;24;25;29;32
+bonus,15
+day,14th
+month,August
+year,2024
+*
+date,August 10th 2024
+weekDay,Saturday
+lotto,3;6;17;24;25;30
+bonus,36
+day,10th
+month,August
+year,2024
+*
+date,August 7th 2024
+weekDay,Wednesday
+lotto,13;15;29;30;31;40
+bonus,12
+day,7th
+month,August
+year,2024
+*
+date,August 3rd 2024
+weekDay,Saturday
+lotto,1;17;19;27;28;29
+bonus,24
+day,3rd
+month,August
+year,2024
+*
+date,July 31st 2024
+weekDay,Wednesday
+lotto,8;17;25;31;33;36
+bonus,18
+day,31st
+month,July
+year,2024
+*
+date,July 27th 2024
+weekDay,Saturday
+lotto,1;10;12;14;34;38
+bonus,30
+day,27th
+month,July
+year,2024
+*
+date,July 24th 2024
+weekDay,Wednesday
+lotto,1;11;18;29;31;38
+bonus,24
+day,24th
+month,July
+year,2024
+*
+date,July 20th 2024
+weekDay,Saturday
+lotto,2;4;10;25;30;40
+bonus,11
+day,20th
+month,July
+year,2024
+*
+date,July 17th 2024
+weekDay,Wednesday
+lotto,6;7;13;31;33;34
+bonus,20
+day,17th
+month,July
+year,2024
+*
+date,July 13th 2024
+weekDay,Saturday
+lotto,11;13;15;19;31;38
+bonus,7
+day,13th
+month,July
+year,2024
+*
+date,July 10th 2024
+weekDay,Wednesday
+lotto,2;7;16;23;30;40
+bonus,36
+day,10th
+month,July
+year,2024
+*
+date,July 6th 2024
+weekDay,Saturday
+lotto,9;12;16;17;24;28
+bonus,18
+day,6th
+month,July
+year,2024
+*
+date,July 3rd 2024
+weekDay,Wednesday
+lotto,12;27;28;34;35;37
+bonus,25
+day,3rd
+month,July
+year,2024
+*
+date,June 29th 2024
+weekDay,Saturday
+lotto,1;7;8;32;34;35
+bonus,27
+day,29th
+month,June
+year,2024
+*
+date,June 26th 2024
+weekDay,Wednesday
+lotto,12;16;32;34;36;39
+bonus,3
+day,26th
+month,June
+year,2024
+*
+date,June 22nd 2024
+weekDay,Saturday
+lotto,1;3;10;17;30;31
+bonus,25
+day,22nd
+month,June
+year,2024
+*
+date,June 19th 2024
+weekDay,Wednesday
+lotto,2;8;16;18;23;26
+bonus,20
+day,19th
+month,June
+year,2024
+*
+date,June 15th 2024
+weekDay,Saturday
+lotto,3;8;13;20;38;40
+bonus,35
+day,15th
+month,June
+year,2024
+*
+date,June 12th 2024
+weekDay,Wednesday
+lotto,7;9;16;19;30;35
+bonus,27
+day,12th
+month,June
+year,2024
+*
+date,June 8th 2024
+weekDay,Saturday
+lotto,10;21;22;30;35;37
+bonus,5
+day,8th
+month,June
+year,2024
+*
+date,June 5th 2024
+weekDay,Wednesday
+lotto,2;13;15;22;23;33
+bonus,32
+day,5th
+month,June
+year,2024
+*
+date,June 1st 2024
+weekDay,Saturday
+lotto,15;20;33;34;38;39
+bonus,16
+day,1st
+month,June
+year,2024
+*
+date,May 29th 2024
+weekDay,Wednesday
+lotto,8;10;16;27;29;35
+bonus,19
+day,29th
+month,May
+year,2024
+*
+date,May 25th 2024
+weekDay,Saturday
+lotto,7;10;28;33;37;39
+bonus,4
+day,25th
+month,May
+year,2024
+*
+date,May 22nd 2024
+weekDay,Wednesday
+lotto,10;19;21;29;36;39
+bonus,14
+day,22nd
+month,May
+year,2024
+*
+date,May 18th 2024
+weekDay,Saturday
+lotto,13;20;21;22;31;40
+bonus,7
+day,18th
+month,May
+year,2024
+*
+date,May 15th 2024
+weekDay,Wednesday
+lotto,6;11;13;21;28;37
+bonus,29
+day,15th
+month,May
+year,2024
+*
+date,May 11th 2024
+weekDay,Saturday
+lotto,11;19;31;32;35;38
+bonus,39
+day,11th
+month,May
+year,2024
+*
+date,May 8th 2024
+weekDay,Wednesday
+lotto,6;12;13;17;28;29
+bonus,19
+day,8th
+month,May
+year,2024
+*
+date,May 4th 2024
+weekDay,Saturday
+lotto,11;13;15;20;30;38
+bonus,25
+day,4th
+month,May
+year,2024
+*
+date,May 1st 2024
+weekDay,Wednesday
+lotto,12;14;17;20;25;34
+bonus,35
+day,1st
+month,May
+year,2024
+*
+date,April 27th 2024
+weekDay,Saturday
+lotto,4;5;6;12;16;21
+bonus,18
+day,27th
+month,April
+year,2024
+*
+date,April 24th 2024
+weekDay,Wednesday
+lotto,19;21;27;30;34;37
+bonus,20
+day,24th
+month,April
+year,2024
+*
+date,April 20th 2024
+weekDay,Saturday
+lotto,5;23;26;30;32;33
+bonus,19
+day,20th
+month,April
+year,2024
+*
+date,April 17th 2024
+weekDay,Wednesday
+lotto,1;2;14;15;17;19
+bonus,34
+day,17th
+month,April
+year,2024
+*
+date,April 13th 2024
+weekDay,Saturday
+lotto,11;14;20;31;33;36
+bonus,26
+day,13th
+month,April
+year,2024
+*
+date,April 10th 2024
+weekDay,Wednesday
+lotto,8;11;12;17;21;24
+bonus,9
+day,10th
+month,April
+year,2024
+*
+date,April 6th 2024
+weekDay,Saturday
+lotto,2;5;6;10;21;30
+bonus,36
+day,6th
+month,April
+year,2024
+*
+date,April 3rd 2024
+weekDay,Wednesday
+lotto,9;11;16;17;29;30
+bonus,25
+day,3rd
+month,April
+year,2024
+*
+date,March 30th 2024
+weekDay,Saturday
+lotto,3;20;29;30;32;40
+bonus,14
+day,30th
+month,March
+year,2024
+*
+date,March 27th 2024
+weekDay,Wednesday
+lotto,6;8;12;15;25;38
+bonus,7
+day,27th
+month,March
+year,2024
+*
+date,March 23rd 2024
+weekDay,Saturday
+lotto,7;9;11;16;28;37
+bonus,15
+day,23rd
+month,March
+year,2024
+*
+date,March 20th 2024
+weekDay,Wednesday
+lotto,1;18;21;23;32;37
+bonus,36
+day,20th
+month,March
+year,2024
+*
+date,March 16th 2024
+weekDay,Saturday
+lotto,5;7;17;20;33;38
+bonus,39
+day,16th
+month,March
+year,2024
+*
+date,March 13th 2024
+weekDay,Wednesday
+lotto,5;15;23;24;30;36
+bonus,34
+day,13th
+month,March
+year,2024
+*
+date,March 9th 2024
+weekDay,Saturday
+lotto,12;15;22;24;34;36
+bonus,23
+day,9th
+month,March
+year,2024
+*
+date,March 6th 2024
+weekDay,Wednesday
+lotto,13;17;27;33;35;38
+bonus,19
+day,6th
+month,March
+year,2024
+*
+date,March 2nd 2024
+weekDay,Saturday
+lotto,1;5;6;28;29;40
+bonus,17
+day,2nd
+month,March
+year,2024
+*
+date,February 28th 2024
+weekDay,Wednesday
+lotto,5;13;26;28;30;34
+bonus,15
+day,28th
+month,February
+year,2024
+*
+date,February 24th 2024
+weekDay,Saturday
+lotto,6;13;16;35;36;38
+bonus,7
+day,24th
+month,February
+year,2024
+*
+date,February 21st 2024
+weekDay,Wednesday
+lotto,1;20;22;24;28;34
+bonus,29
+day,21st
+month,February
+year,2024
+*
+date,February 17th 2024
+weekDay,Saturday
+lotto,5;6;10;22;24;34
+bonus,26
+day,17th
+month,February
+year,2024
+*
+date,February 14th 2024
+weekDay,Wednesday
+lotto,22;25;26;27;32;40
+bonus,35
+day,14th
+month,February
+year,2024
+*
+date,February 10th 2024
+weekDay,Saturday
+lotto,5;10;17;28;33;40
+bonus,3
+day,10th
+month,February
+year,2024
+*
+date,February 7th 2024
+weekDay,Wednesday
+lotto,2;3;24;27;37;38
+bonus,26
+day,7th
+month,February
+year,2024
+*
+date,February 3rd 2024
+weekDay,Saturday
+lotto,1;11;16;17;20;35
+bonus,26
+day,3rd
+month,February
+year,2024
+*
+date,January 31st 2024
+weekDay,Wednesday
+lotto,2;6;10;25;36;40
+bonus,38
+day,31st
+month,January
+year,2024
+*
+date,January 27th 2024
+weekDay,Saturday
+lotto,8;11;13;20;25;32
+bonus,7
+day,27th
+month,January
+year,2024
+*
+date,January 24th 2024
+weekDay,Wednesday
+lotto,3;5;12;13;26;40
+bonus,1
+day,24th
+month,January
+year,2024
+*
+date,January 20th 2024
+weekDay,Saturday
+lotto,3;17;18;21;23;33
+bonus,9
+day,20th
+month,January
+year,2024
+*
+date,January 17th 2024
+weekDay,Wednesday
+lotto,1;3;12;18;25;40
+bonus,30
+day,17th
+month,January
+year,2024
+*
+date,January 13th 2024
+weekDay,Saturday
+lotto,5;7;9;12;15;27
+bonus,21
+day,13th
+month,January
+year,2024
+*
+date,January 10th 2024
+weekDay,Wednesday
+lotto,4;5;12;13;28;34
+bonus,24
+day,10th
+month,January
+year,2024
+*
+date,January 6th 2024
+weekDay,Saturday
+lotto,8;16;25;29;31;37
+bonus,12
+day,6th
+month,January
+year,2024
+*
+date,January 3rd 2024
+weekDay,Wednesday
+lotto,10;13;15;22;23;35
+bonus,21
+day,3rd
+month,January
+year,2024

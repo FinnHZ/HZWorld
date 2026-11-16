@@ -1,0 +1,1 @@
+Place your own background/photo assets here. Recommended CSS pattern for uploaded images: width:100%; height:100%; object-fit:cover; object-position:center; display:block;

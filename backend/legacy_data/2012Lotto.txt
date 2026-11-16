@@ -1,0 +1,416 @@
+*
+date,December 29th 2012
+weekDay,Saturday
+lotto,3;6;7;25;26;29
+bonus,8
+day,29th
+month,December
+year,2012
+*
+date,December 22nd 2012
+weekDay,Saturday
+lotto,6;8;13;14;19;31
+bonus,2
+day,22nd
+month,December
+year,2012
+*
+date,December 15th 2012
+weekDay,Saturday
+lotto,6;12;23;24;25;36
+bonus,33
+day,15th
+month,December
+year,2012
+*
+date,December 8th 2012
+weekDay,Saturday
+lotto,9;13;18;21;24;27
+bonus,26
+day,8th
+month,December
+year,2012
+*
+date,December 1st 2012
+weekDay,Saturday
+lotto,8;10;14;15;21;39
+bonus,20
+day,1st
+month,December
+year,2012
+*
+date,November 24th 2012
+weekDay,Saturday
+lotto,3;4;18;19;34;35
+bonus,21
+day,24th
+month,November
+year,2012
+*
+date,November 17th 2012
+weekDay,Saturday
+lotto,1;17;18;22;28;32
+bonus,38
+day,17th
+month,November
+year,2012
+*
+date,November 10th 2012
+weekDay,Saturday
+lotto,18;22;31;32;33;36
+bonus,26
+day,10th
+month,November
+year,2012
+*
+date,November 3rd 2012
+weekDay,Saturday
+lotto,1;2;15;21;35;36
+bonus,20
+day,3rd
+month,November
+year,2012
+*
+date,October 27th 2012
+weekDay,Saturday
+lotto,14;15;29;33;36;39
+bonus,38
+day,27th
+month,October
+year,2012
+*
+date,October 20th 2012
+weekDay,Saturday
+lotto,2;11;12;14;27;31
+bonus,13
+day,20th
+month,October
+year,2012
+*
+date,October 13th 2012
+weekDay,Saturday
+lotto,1;7;29;30;31;40
+bonus,20
+day,13th
+month,October
+year,2012
+*
+date,October 6th 2012
+weekDay,Saturday
+lotto,9;15;19;22;23;30
+bonus,8
+day,6th
+month,October
+year,2012
+*
+date,September 29th 2012
+weekDay,Saturday
+lotto,6;9;13;30;34;35
+bonus,17
+day,29th
+month,September
+year,2012
+*
+date,September 22nd 2012
+weekDay,Saturday
+lotto,9;12;17;19;21;35
+bonus,1
+day,22nd
+month,September
+year,2012
+*
+date,September 15th 2012
+weekDay,Saturday
+lotto,1;3;14;16;36;38
+bonus,8
+day,15th
+month,September
+year,2012
+*
+date,September 8th 2012
+weekDay,Saturday
+lotto,7;16;31;38;39;40
+bonus,28
+day,8th
+month,September
+year,2012
+*
+date,September 1st 2012
+weekDay,Saturday
+lotto,1;5;15;26;33;35
+bonus,24
+day,1st
+month,September
+year,2012
+*
+date,August 25th 2012
+weekDay,Saturday
+lotto,3;8;17;18;27;39
+bonus,20
+day,25th
+month,August
+year,2012
+*
+date,August 18th 2012
+weekDay,Saturday
+lotto,10;13;21;23;27;35
+bonus,5
+day,18th
+month,August
+year,2012
+*
+date,August 11th 2012
+weekDay,Saturday
+lotto,2;4;15;20;26;31
+bonus,22
+day,11th
+month,August
+year,2012
+*
+date,August 4th 2012
+weekDay,Saturday
+lotto,10;12;13;24;29;38
+bonus,26
+day,4th
+month,August
+year,2012
+*
+date,July 28th 2012
+weekDay,Saturday
+lotto,2;7;8;9;18;25
+bonus,36
+day,28th
+month,July
+year,2012
+*
+date,July 21st 2012
+weekDay,Saturday
+lotto,1;13;15;17;26;31
+bonus,40
+day,21st
+month,July
+year,2012
+*
+date,July 14th 2012
+weekDay,Saturday
+lotto,4;7;11;12;15;34
+bonus,2
+day,14th
+month,July
+year,2012
+*
+date,July 7th 2012
+weekDay,Saturday
+lotto,8;11;21;27;39;40
+bonus,20
+day,7th
+month,July
+year,2012
+*
+date,June 30th 2012
+weekDay,Saturday
+lotto,2;9;10;14;22;24
+bonus,40
+day,30th
+month,June
+year,2012
+*
+date,June 23rd 2012
+weekDay,Saturday
+lotto,25;26;28;29;30;32
+bonus,5
+day,23rd
+month,June
+year,2012
+*
+date,June 16th 2012
+weekDay,Saturday
+lotto,9;18;20;27;33;39
+bonus,6
+day,16th
+month,June
+year,2012
+*
+date,June 9th 2012
+weekDay,Saturday
+lotto,5;6;7;10;17;24
+bonus,40
+day,9th
+month,June
+year,2012
+*
+date,June 2nd 2012
+weekDay,Saturday
+lotto,10;11;15;21;24;33
+bonus,30
+day,2nd
+month,June
+year,2012
+*
+date,May 26th 2012
+weekDay,Saturday
+lotto,8;10;12;20;21;39
+bonus,26
+day,26th
+month,May
+year,2012
+*
+date,May 19th 2012
+weekDay,Saturday
+lotto,13;16;18;32;36;37
+bonus,17
+day,19th
+month,May
+year,2012
+*
+date,May 12th 2012
+weekDay,Saturday
+lotto,2;13;16;24;35;36
+bonus,19
+day,12th
+month,May
+year,2012
+*
+date,May 5th 2012
+weekDay,Saturday
+lotto,7;28;31;34;35;38
+bonus,33
+day,5th
+month,May
+year,2012
+*
+date,April 28th 2012
+weekDay,Saturday
+lotto,1;4;12;13;20;24
+bonus,22
+day,28th
+month,April
+year,2012
+*
+date,April 21st 2012
+weekDay,Saturday
+lotto,7;11;12;13;15;16
+bonus,30
+day,21st
+month,April
+year,2012
+*
+date,April 14th 2012
+weekDay,Saturday
+lotto,13;17;23;27;31;33
+bonus,25
+day,14th
+month,April
+year,2012
+*
+date,April 7th 2012
+weekDay,Saturday
+lotto,5;21;24;27;30;35
+bonus,14
+day,7th
+month,April
+year,2012
+*
+date,March 31st 2012
+weekDay,Saturday
+lotto,4;5;21;24;35;40
+bonus,37
+day,31st
+month,March
+year,2012
+*
+date,March 24th 2012
+weekDay,Saturday
+lotto,2;9;14;19;22;33
+bonus,10
+day,24th
+month,March
+year,2012
+*
+date,March 17th 2012
+weekDay,Saturday
+lotto,4;5;11;18;33;40
+bonus,23
+day,17th
+month,March
+year,2012
+*
+date,March 10th 2012
+weekDay,Saturday
+lotto,8;11;15;24;35;39
+bonus,38
+day,10th
+month,March
+year,2012
+*
+date,March 3rd 2012
+weekDay,Saturday
+lotto,3;8;23;31;39;40
+bonus,2
+day,3rd
+month,March
+year,2012
+*
+date,February 25th 2012
+weekDay,Saturday
+lotto,3;7;9;20;27;40
+bonus,37
+day,25th
+month,February
+year,2012
+*
+date,February 18th 2012
+weekDay,Saturday
+lotto,7;13;22;27;34;36
+bonus,30
+day,18th
+month,February
+year,2012
+*
+date,February 11th 2012
+weekDay,Saturday
+lotto,2;7;9;17;21;33
+bonus,29
+day,11th
+month,February
+year,2012
+*
+date,February 4th 2012
+weekDay,Saturday
+lotto,21;23;26;33;34;38
+bonus,35
+day,4th
+month,February
+year,2012
+*
+date,January 28th 2012
+weekDay,Saturday
+lotto,6;8;16;33;35;40
+bonus,26
+day,28th
+month,January
+year,2012
+*
+date,January 21st 2012
+weekDay,Saturday
+lotto,1;4;7;13;20;38
+bonus,39
+day,21st
+month,January
+year,2012
+*
+date,January 14th 2012
+weekDay,Saturday
+lotto,1;3;5;16;19;34
+bonus,9
+day,14th
+month,January
+year,2012
+*
+date,January 7th 2012
+weekDay,Saturday
+lotto,8;10;12;35;36;40
+bonus,14
+day,7th
+month,January
+year,2012

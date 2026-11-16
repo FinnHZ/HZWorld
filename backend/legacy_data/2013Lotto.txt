@@ -1,0 +1,416 @@
+*
+date,December 28th 2013
+weekDay,Saturday
+lotto,6;15;16;18;20;34
+bonus,9
+day,28th
+month,December
+year,2013
+*
+date,December 21st 2013
+weekDay,Saturday
+lotto,4;7;12;19;20;25
+bonus,15
+day,21st
+month,December
+year,2013
+*
+date,December 14th 2013
+weekDay,Saturday
+lotto,5;15;20;32;33;39
+bonus,17
+day,14th
+month,December
+year,2013
+*
+date,December 7th 2013
+weekDay,Saturday
+lotto,3;11;21;25;26;31
+bonus,17
+day,7th
+month,December
+year,2013
+*
+date,November 30th 2013
+weekDay,Saturday
+lotto,1;4;11;17;31;37
+bonus,27
+day,30th
+month,November
+year,2013
+*
+date,November 23rd 2013
+weekDay,Saturday
+lotto,14;26;28;30;37;40
+bonus,23
+day,23rd
+month,November
+year,2013
+*
+date,November 16th 2013
+weekDay,Saturday
+lotto,4;8;9;18;25;28
+bonus,5
+day,16th
+month,November
+year,2013
+*
+date,November 9th 2013
+weekDay,Saturday
+lotto,6;9;18;28;30;39
+bonus,11
+day,9th
+month,November
+year,2013
+*
+date,November 2nd 2013
+weekDay,Saturday
+lotto,1;5;12;15;21;29
+bonus,4
+day,2nd
+month,November
+year,2013
+*
+date,October 26th 2013
+weekDay,Saturday
+lotto,4;15;19;27;32;33
+bonus,38
+day,26th
+month,October
+year,2013
+*
+date,October 19th 2013
+weekDay,Saturday
+lotto,2;14;27;29;34;40
+bonus,5
+day,19th
+month,October
+year,2013
+*
+date,October 12th 2013
+weekDay,Saturday
+lotto,6;8;30;32;37;39
+bonus,16
+day,12th
+month,October
+year,2013
+*
+date,October 5th 2013
+weekDay,Saturday
+lotto,1;13;19;20;28;37
+bonus,22
+day,5th
+month,October
+year,2013
+*
+date,September 28th 2013
+weekDay,Saturday
+lotto,1;21;29;33;39;40
+bonus,8
+day,28th
+month,September
+year,2013
+*
+date,September 21st 2013
+weekDay,Saturday
+lotto,6;8;17;18;21;26
+bonus,10
+day,21st
+month,September
+year,2013
+*
+date,September 14th 2013
+weekDay,Saturday
+lotto,2;5;11;19;30;31
+bonus,23
+day,14th
+month,September
+year,2013
+*
+date,September 7th 2013
+weekDay,Saturday
+lotto,2;4;24;32;33;38
+bonus,15
+day,7th
+month,September
+year,2013
+*
+date,August 31st 2013
+weekDay,Saturday
+lotto,6;12;17;20;25;28
+bonus,10
+day,31st
+month,August
+year,2013
+*
+date,August 24th 2013
+weekDay,Saturday
+lotto,4;7;19;27;36;40
+bonus,1
+day,24th
+month,August
+year,2013
+*
+date,August 17th 2013
+weekDay,Saturday
+lotto,1;11;16;23;29;34
+bonus,7
+day,17th
+month,August
+year,2013
+*
+date,August 10th 2013
+weekDay,Saturday
+lotto,5;21;23;27;30;38
+bonus,36
+day,10th
+month,August
+year,2013
+*
+date,August 3rd 2013
+weekDay,Saturday
+lotto,4;6;9;15;23;29
+bonus,7
+day,3rd
+month,August
+year,2013
+*
+date,July 27th 2013
+weekDay,Saturday
+lotto,1;2;24;32;36;37
+bonus,14
+day,27th
+month,July
+year,2013
+*
+date,July 20th 2013
+weekDay,Saturday
+lotto,1;6;10;20;21;36
+bonus,32
+day,20th
+month,July
+year,2013
+*
+date,July 13th 2013
+weekDay,Saturday
+lotto,3;5;13;19;22;32
+bonus,15
+day,13th
+month,July
+year,2013
+*
+date,July 6th 2013
+weekDay,Saturday
+lotto,13;14;19;25;34;38
+bonus,8
+day,6th
+month,July
+year,2013
+*
+date,June 29th 2013
+weekDay,Saturday
+lotto,3;10;16;17;20;38
+bonus,32
+day,29th
+month,June
+year,2013
+*
+date,June 22nd 2013
+weekDay,Saturday
+lotto,2;7;14;23;30;33
+bonus,5
+day,22nd
+month,June
+year,2013
+*
+date,June 15th 2013
+weekDay,Saturday
+lotto,12;26;31;33;36;39
+bonus,17
+day,15th
+month,June
+year,2013
+*
+date,June 8th 2013
+weekDay,Saturday
+lotto,6;7;19;29;32;37
+bonus,27
+day,8th
+month,June
+year,2013
+*
+date,June 1st 2013
+weekDay,Saturday
+lotto,8;11;13;22;23;36
+bonus,15
+day,1st
+month,June
+year,2013
+*
+date,May 25th 2013
+weekDay,Saturday
+lotto,2;4;9;17;19;27
+bonus,31
+day,25th
+month,May
+year,2013
+*
+date,May 18th 2013
+weekDay,Saturday
+lotto,3;8;22;33;35;36
+bonus,37
+day,18th
+month,May
+year,2013
+*
+date,May 11th 2013
+weekDay,Saturday
+lotto,12;16;18;19;29;39
+bonus,37
+day,11th
+month,May
+year,2013
+*
+date,May 4th 2013
+weekDay,Saturday
+lotto,15;24;26;27;38;40
+bonus,2
+day,4th
+month,May
+year,2013
+*
+date,April 27th 2013
+weekDay,Saturday
+lotto,9;13;17;18;23;35
+bonus,39
+day,27th
+month,April
+year,2013
+*
+date,April 20th 2013
+weekDay,Saturday
+lotto,15;29;31;34;39;40
+bonus,16
+day,20th
+month,April
+year,2013
+*
+date,April 13th 2013
+weekDay,Saturday
+lotto,6;7;16;24;37;38
+bonus,20
+day,13th
+month,April
+year,2013
+*
+date,April 6th 2013
+weekDay,Saturday
+lotto,13;16;25;29;33;38
+bonus,18
+day,6th
+month,April
+year,2013
+*
+date,March 30th 2013
+weekDay,Saturday
+lotto,6;10;11;26;36;38
+bonus,33
+day,30th
+month,March
+year,2013
+*
+date,March 23rd 2013
+weekDay,Saturday
+lotto,1;16;18;29;30;32
+bonus,25
+day,23rd
+month,March
+year,2013
+*
+date,March 16th 2013
+weekDay,Saturday
+lotto,3;11;13;15;16;26
+bonus,5
+day,16th
+month,March
+year,2013
+*
+date,March 9th 2013
+weekDay,Saturday
+lotto,7;10;11;37;39;40
+bonus,24
+day,9th
+month,March
+year,2013
+*
+date,March 2nd 2013
+weekDay,Saturday
+lotto,8;11;12;18;33;37
+bonus,13
+day,2nd
+month,March
+year,2013
+*
+date,February 23rd 2013
+weekDay,Saturday
+lotto,13;21;28;29;38;40
+bonus,30
+day,23rd
+month,February
+year,2013
+*
+date,February 16th 2013
+weekDay,Saturday
+lotto,2;6;25;32;35;36
+bonus,15
+day,16th
+month,February
+year,2013
+*
+date,February 9th 2013
+weekDay,Saturday
+lotto,4;9;17;19;20;28
+bonus,21
+day,9th
+month,February
+year,2013
+*
+date,February 2nd 2013
+weekDay,Saturday
+lotto,5;6;13;19;24;39
+bonus,26
+day,2nd
+month,February
+year,2013
+*
+date,January 26th 2013
+weekDay,Saturday
+lotto,1;2;12;27;29;31
+bonus,16
+day,26th
+month,January
+year,2013
+*
+date,January 19th 2013
+weekDay,Saturday
+lotto,5;19;21;32;36;39
+bonus,9
+day,19th
+month,January
+year,2013
+*
+date,January 12th 2013
+weekDay,Saturday
+lotto,1;2;3;7;8;30
+bonus,14
+day,12th
+month,January
+year,2013
+*
+date,January 5th 2013
+weekDay,Saturday
+lotto,1;3;8;14;26;30
+bonus,34
+day,5th
+month,January
+year,2013

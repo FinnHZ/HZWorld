@@ -1,0 +1,196 @@
+.everyday-page{width:100%;min-width:0;color:#263445;font-family:inherit}
+.everyday-page *,.everyday-page *:before,.everyday-page *:after{box-sizing:border-box}
+.everyday-page button,.everyday-page input,.everyday-page select{font:inherit}
+.everyday-page button{cursor:pointer}
+.everyday-header,.section-intro,.ev-card-head,.chart-heading,.calendar-toolbar,.selected-records-head{display:flex;align-items:center;justify-content:space-between;gap:14px}
+.everyday-header{margin-bottom:20px}
+.everyday-header h1{margin:0;color:#183b63;font-size:26px}
+.everyday-header p,.section-intro p,.ev-card-head p{margin:5px 0 0;color:#718096;font-size:13px}
+.admin-chip{padding:7px 11px;border-radius:20px;background:#eaf3fc;color:#2869a8;font-size:11px;font-weight:700}
+.everyday-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-bottom:18px}
+.ev-card{min-width:0;padding:18px;border:1px solid #e2eaf2;border-radius:12px;background:#fff;box-shadow:0 3px 12px rgba(35,64,95,.045)}
+.ev-card h2,.ev-card h3{margin:0;color:#244b73}
+.ev-card h2{font-size:17px}.ev-card h3{font-size:15px}
+.ev-card-head>span,.ev-muted,.ev-card small{color:#8190a0;font-size:11px}
+.rates-card{grid-column:1/-1}
+.weather-cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:14px}
+.weather-city{padding:13px;border:1px solid #e7edf4;border-radius:9px;background:#f9fbfd}
+.weather-city strong{display:block;color:#315d89}
+.weather-temp{display:block;margin:8px 0;color:#183b63;font-size:30px;font-weight:750}
+.weather-city small{display:block;color:#718096;line-height:1.6}
+.exchange-content{display:flex;gap:12px;margin:16px 0 9px}
+.exchange-rate{flex:1;padding:14px;border-radius:9px;background:#f4f8fc}
+.exchange-rate strong{display:block;margin-top:6px;color:#183b63;font-size:22px}
+.rates-table{width:100%;margin:13px 0;border-collapse:collapse;font-size:12px}
+.rates-table th,.rates-table td{padding:9px 8px;border-bottom:1px solid #edf1f5;text-align:right}
+.rates-table th:first-child,.rates-table td:first-child{text-align:left}
+.rates-table th{color:#718096;font-size:10px;text-transform:uppercase}
+.rates-table .floating-row{background:#f4f8fc;font-weight:700}
+.rates-card>a{color:#3478bd;font-size:11px;text-decoration:none}
+.income-card{margin-bottom:22px}
+.income-card>.ev-card-head{margin-bottom:15px}
+.income-form{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:13px}
+.income-form label,.tax-rate-grid label,.range-controls label{display:flex;flex-direction:column;gap:6px;color:#52677c;font-size:12px;font-weight:600}
+.income-form input,.income-form select,.range-controls input,.entry-table input,.entry-table select{width:100%;min-width:0;padding:9px 10px;border:1px solid #d6e0ea;border-radius:7px;background:white;color:#2d4054;font-size:13px}
+.income-form input:focus,.income-form select:focus,.entry-table input:focus,.entry-table select:focus{outline:0;border-color:#65a3d8;box-shadow:0 0 0 3px rgba(101,163,216,.13)}
+.tax-rates{grid-column:1/-1;padding:13px;border:1px solid #e7edf3;border-radius:9px;background:#f9fbfd}
+.tax-rates h3{margin:0 0 10px;color:#52677c;font-size:12px}
+.tax-rate-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}
+.income-actions{grid-column:1/-1;display:flex;align-items:center;gap:9px}
+.ev-btn{display:inline-flex;align-items:center;justify-content:center;min-height:35px;padding:8px 14px;border:1px solid transparent;border-radius:7px;font-size:12px;font-weight:650}
+.ev-btn.primary{background:#286da9;color:#fff}
+.ev-btn.primary:hover{background:#1e5689}
+.ev-btn.secondary{border-color:#d5e0eb;background:#fff;color:#315d89}
+.ev-btn.secondary:hover{background:#edf5fd}
+.ev-btn.danger{border-color:#f0c5c5;background:#fff;color:#bd4141}
+.income-results{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin-top:16px}
+.result-tile{padding:12px;border:1px solid #e7edf4;border-radius:8px;background:#f9fbfd}
+.result-tile small{display:block;color:#8190a0;font-size:10px}
+.result-tile strong{display:block;margin-top:5px;color:#244b73;font-size:17px}
+.finance-section{margin-top:24px}.section-intro{margin-bottom:15px}
+.section-intro h2{margin:0;color:#183b63;font-size:21px}
+.range-controls{display:flex;align-items:end;gap:9px}
+.range-controls label{min-width:135px}
+.finance-layout{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(280px,1fr);align-items:start;gap:16px}
+.finance-calendar-card{min-width:0}
+.calendar-toolbar{justify-content:flex-start;margin-bottom:16px}
+.calendar-toolbar h3{flex:1;text-align:center;font-size:17px}
+.ev-icon-btn{width:33px;height:33px;border:1px solid #d8e3ee;border-radius:7px;background:#fff;color:#315d89;font-size:20px}
+.weekday-row,.calendar-grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:5px}
+.weekday-row{margin-bottom:7px}
+.weekday-row span{text-align:center;padding:7px 0;color:#71849a;font-size:10px;font-weight:700;text-transform:uppercase}
+.finance-day{position:relative;display:flex;flex-direction:column;align-items:flex-start;min-height:86px;padding:7px;border:1px solid #e7edf4;border-radius:8px;background:#fff;color:#34495e;cursor:pointer}
+.finance-day:hover{border-color:#8db5df;background:#f5f9fe}
+.finance-day.other-month{background:#f8fafc;color:#b4bfca}
+.finance-day.selected{border:2px solid #3478bd;background:#edf5ff}
+.finance-day.today:not(.selected){border-color:#83add5}
+.finance-day .day-number{font-size:12px;font-weight:700}
+.finance-day .day-add{position:absolute;top:4px;right:4px;width:20px;height:20px;border:0;border-radius:50%;background:#e7f1fc;color:#2869a8;font-size:15px;opacity:0}
+.finance-day:hover 
+.day-add{opacity:1}
+.finance-day .day-finance{display:flex;flex-direction:column;gap:2px;margin-top:auto;font-size:9px;line-height:1.3}
+.day-finance .in{color:#24845c}.day-finance .out{color:#c45b55}
+.day-summary{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin-top:15px;padding:12px;border-radius:9px;background:#f4f8fc}
+.day-summary div{display:flex;flex-direction:column;gap:4px;min-width:0}
+.day-summary small{color:#8190a0;font-size:10px}
+.day-summary strong{color:#315d89;font-size:13px;overflow-wrap:anywhere}
+.selected-records-head{margin:17px 0 10px}.selected-records-head h3{font-size:13px}
+.selected-records-head span{color:#8190a0;font-size:11px}
+/* .selected-records{display:flex;flex-direction:column;gap:7px} */
+/* Selected day records: fixed-height scrolling area */
+.selected-records {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+
+    /* Show approximately 3 records at a time */
+    max-height: 180px;
+
+    /* Enable vertical scrolling when records exceed the height */
+    overflow-y: auto;
+    overflow-x: hidden;
+
+    /* Keep some space between records and scrollbar */
+    padding-right: 6px;
+
+    /* Smooth scrolling */
+    scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+.selected-records::-webkit-scrollbar {
+    width: 6px;
+}
+
+.selected-records::-webkit-scrollbar-track {
+    background: #f1f5f9;
+    border-radius: 10px;
+}
+
+.selected-records::-webkit-scrollbar-thumb {
+    background: #b8c9da;
+    border-radius: 10px;
+}
+
+.selected-records::-webkit-scrollbar-thumb:hover {
+    background: #7899b8;
+}
+
+/* Firefox */
+.selected-records {
+    scrollbar-width: thin;
+    scrollbar-color: #b8c9da #f1f5f9;
+}
+.record-line{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:8px;
+    padding:9px;
+    border:1px solid #edf1f5;
+    border-radius:7px;
+    font-size:11px;
+    min-height: 48px;
+    flex-shrink: 0;
+}
+
+.record-line .record-meta{display:flex;flex-direction:column;gap:3px;min-width:0}
+.record-line small{color:#8190a0}
+.record-line .record-amount{font-weight:700;white-space:nowrap}
+.record-line .record-amount.in{color:#24845c}
+.record-line .record-amount.out{color:#c45b55}
+.record-delete{border:0;background:transparent;color:#bd4141;font-size:17px}
+.chart-column{display:flex;flex-direction:column;gap:16px}
+.ev-chart{width:100%;height:255px;min-height:220px}
+.chart-wide{margin-top:16px}
+.ev-chart.large{height:340px}
+.chart-heading{margin-bottom:8px}
+.group-toggle{display:flex;gap:3px;padding:3px;border-radius:8px;background:#f0f4f8}
+.group-toggle button{padding:6px 10px;border:0;border-radius:6px;background:transparent;color:#63788d;font-size:11px}
+.group-toggle button.active{background:#fff;color:#2869a8;box-shadow:0 1px 4px #dce4ec}
+.detail-charts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.detail-charts h4{margin:12px 0 0;color:#52677c;font-size:12px}
+.ev-modal{position:fixed;z-index:10020;inset:0;display:flex;align-items:center;justify-content:center;padding:18px;background:rgba(24,45,70,.58);backdrop-filter:blur(4px)}.ev-modal[hidden]{display:none!important}.ev-modal-panel{width:min(760px,100%);max-height:92vh;overflow:auto;padding:22px;border:1px solid #e3ebf3;border-radius:15px;background:#fff;box-shadow:0 20px 60px rgba(20,45,75,.25);animation:evPopupIn .2s ease-out}.ev-modal.open .ev-modal-panel{animation:evPopupIn .2s ease-out}@keyframes evPopupIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}.modal-heading{display:flex;align-items:center;justify-content:space-between;padding-bottom:13px;border-bottom:1px solid #edf1f5}.modal-heading h2{margin:0;color:#244b73;font-size:20px}.modal-heading p{margin:5px 0 0;color:#8190a0;font-size:12px}.entry-type-switch{display:flex;gap:18px;margin:15px 0;color:#52677c;font-size:12px}.entry-type-switch label{display:flex;align-items:center;gap:6px}.entry-table-wrap{overflow-x:auto}.entry-table{width:100%;border-collapse:collapse}.entry-table th{padding:8px;color:#718096;font-size:10px;text-align:left}.entry-table td{padding:5px}.entry-table th:nth-child(1){width:34%}.entry-table th:nth-child(2){width:22%}.entry-table th:nth-child(3){width:34%}.entry-table td button{width:28px;height:30px;border:1px solid #f0c5c5;border-radius:6px;background:#fff;color:#bd4141}.modal-total{display:flex;align-items:center;justify-content:space-between;margin-top:15px;padding:12px;border-radius:8px;background:#f4f8fc;color:#52677c;font-size:12px}.modal-total strong{color:#183b63;font-size:20px}.modal-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}.upload-label{position:relative;overflow:hidden}.upload-label input{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer}.everyday-toast{position:fixed;z-index:11000;right:22px;bottom:22px;max-width:360px;padding:11px 15px;border-radius:8px;background:#244b73;color:#fff;font-size:12px;opacity:0;pointer-events:none;transform:translateY(8px);transition:.2s}.everyday-toast.show{opacity:1;transform:translateY(0)}.everyday-toast.error{background:#a63b3b}.permission-message{padding:28px;border:1px dashed #d9e3ed;border-radius:10px;background:#f9fbfd;color:#8190a0;text-align:center}
+@media(max-width:1050px){
+    .income-form{grid-template-columns:repeat(2,minmax(0,1fr))}
+    .tax-rate-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+    .finance-layout{grid-template-columns:1fr}
+    .chart-column{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:760px){
+    .everyday-grid{grid-template-columns:1fr}
+    .rates-card{grid-column:auto}
+    .section-intro{align-items:flex-start;flex-direction:column}
+    .range-controls{width:100%;flex-wrap:wrap}
+    .range-controls label{flex:1;min-width:120px}
+    .detail-charts{grid-template-columns:1fr}
+    .day-summary{grid-template-columns:repeat(2,minmax(0,1fr))}
+    .income-results{grid-template-columns:repeat(2,minmax(0,1fr))}
+    .finance-day{min-height:65px;padding:5px}
+    .finance-day .day-finance{font-size:8px}
+    .finance-day .day-add{opacity:1;width:17px;height:17px}
+    .calendar-toolbar{gap:6px}
+    .chart-column{grid-template-columns:1fr}
+}
+
+@media(max-width:480px){
+    .everyday-header h1{font-size:22px}
+    .everyday-header{align-items:flex-start}
+    .admin-chip{font-size:9px}
+    .ev-card{padding:12px}
+    .income-form{grid-template-columns:1fr}
+    .tax-rate-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+    .income-actions{flex-wrap:wrap}
+    .weather-cards,.exchange-content{grid-template-columns:1fr;display:grid}
+    .weekday-row,.calendar-grid{gap:3px}
+    .weekday-row span{font-size:8px}
+    .finance-day{min-height:54px;padding:4px}
+    .finance-day .day-number{font-size:10px}
+    .finance-day .day-finance{font-size:7px}
+    .ev-chart{height:225px}
+    .ev-chart.large{height:300px}
+    .ev-modal{padding:8px}
+    .ev-modal-panel{padding:14px}
+    .entry-table th{font-size:9px}
+    .entry-table input,.entry-table select{padding:7px 5px;font-size:11px}
+}

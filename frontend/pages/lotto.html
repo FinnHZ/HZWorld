@@ -1,0 +1,135 @@
+<section class="lotto-page" data-page-script="../js/lotto.js" data-page-style="../css/lotto.css">
+  <header class="page-header lotto-header">
+    <div>
+      <div class="eyebrow">DATA ANALYSIS</div>
+      <h1>NZ Lotto</h1>
+      <p>Explore the complete historical results by default, or choose a date range to focus the analysis.</p>
+    </div>
+    <div class="header-actions">
+      <label class="date-field">Start date<input id="lotto-start" type="date"></label>
+      <label class="date-field">End date<input id="lotto-end" type="date"></label>
+      <button class="light-btn" id="lotto-apply">Apply filter</button>
+      <button class="primary-small" id="lotto-refresh">↻ Refresh history</button>
+    </div>
+  </header>
+
+  <div class="lotto-message info" id="lotto-message" role="status">
+    Loading all available historical draws…
+  </div>
+
+  <section class="stats-grid">
+    <article class="stat-card">
+      <span>Draws in selected period</span>
+      <strong id="stat-draw-count">—</strong>
+    </article>
+    <article class="stat-card">
+      <span>First draw</span>
+      <strong id="stat-first-date">—</strong>
+    </article>
+    <article class="stat-card">
+      <span>Latest draw</span>
+      <strong id="stat-last-date">—</strong>
+    </article>
+    <article class="stat-card">
+      <span>Stored historical draws</span>
+      <strong id="stat-total-count">—</strong>
+    </article>
+  </section>
+
+  <section class="panel chart-panel">
+    <div class="panel-heading">
+      <div>
+        <div class="section-kicker">01 / FREQUENCY MODEL</div>
+        <h2>3D Distribution</h2>
+        <p>Frequency of each number across the selected date, weekday or month category.</p>
+      </div>
+      <div class="chart-filters">
+        <div class="filter-group" aria-label="Distribution dimension">
+          <button class="filter-btn active" data-dimension="date">Date</button>
+          <button class="filter-btn" data-dimension="weekDay">Weekday</button>
+          <button class="filter-btn" data-dimension="month">Month</button>
+        </div>
+        <div class="filter-group" aria-label="Number type">
+          <button class="filter-btn" data-ball-set="lotto">Lotto</button>
+          <button class="filter-btn" data-ball-set="bonus">Bonus</button>
+          <button class="filter-btn active" data-ball-set="both">Both</button>
+        </div>
+      </div>
+    </div>
+    <div class="chart-area chart-3d" id="distribution-chart">
+      <div class="chart-loading">Loading 3D chart…</div>
+    </div>
+    <div class="chart-footnote">The Z axis shows average occurrences per draw in each category. Both = six main numbers plus Bonus.</div>
+  </section>
+
+  <section class="analysis-grid">
+    <article class="chart-card">
+      <div class="panel-heading compact">
+        <div>
+          <div class="section-kicker">02 / DRAW TIMING</div>
+          <h2>Sum of Six Main Numbers</h2>
+          <p>One point per draw. Use the slider or mouse wheel to zoom along the time axis.</p>
+        </div>
+      </div>
+      <div class="chart-area chart-time-series" id="draw-timing-chart"></div>
+    </article>
+    <article class="chart-card">
+      <div class="panel-heading compact">
+        <div>
+          <div class="section-kicker">03 / CALENDAR PATTERN</div>
+          <h2>Number Occurrence Probability</h2>
+          <p>Probability of each number (1–40) appearing among the six main numbers.</p>
+        </div>
+      </div>
+      <div class="chart-area chart-probability" id="number-probability-chart"></div>
+      <div class="chart-footnote">Reference line: 15% theoretical average (6 numbers out of 40). Historical frequency is descriptive, not predictive.</div>
+    </article>
+  </section>
+
+  <section class="panel check-panel">
+    <div class="panel-heading">
+      <div>
+        <div class="section-kicker">04 / HISTORICAL COMPARISON</div>
+        <h2>Manual Number Analysis</h2>
+        <p>Enter six main numbers and one Bonus number to compare against every draw in the selected period. The initial period includes all available history.</p>
+      </div>
+    </div>
+
+    <div class="number-entry">
+      <div class="number-group">
+        <label>Main numbers</label>
+        <div class="number-inputs">
+          <input class="lotto-number" inputmode="numeric" maxlength="2" aria-label="Main number 1" placeholder="01">
+          <input class="lotto-number" inputmode="numeric" maxlength="2" aria-label="Main number 2" placeholder="02">
+          <input class="lotto-number" inputmode="numeric" maxlength="2" aria-label="Main number 3" placeholder="03">
+          <input class="lotto-number" inputmode="numeric" maxlength="2" aria-label="Main number 4" placeholder="04">
+          <input class="lotto-number" inputmode="numeric" maxlength="2" aria-label="Main number 5" placeholder="05">
+          <input class="lotto-number" inputmode="numeric" maxlength="2" aria-label="Main number 6" placeholder="06">
+        </div>
+      </div>
+      <div class="number-group bonus-group">
+        <label>Bonus number</label>
+        <input class="lotto-number bonus-input" id="bonus-number" inputmode="numeric" maxlength="2" aria-label="Bonus number" placeholder="B">
+      </div>
+      <button class="primary-small check-button" id="check-btn">Check history</button>
+    </div>
+
+    <div class="check-message" id="check-message">All seven numbers must be unique integers from 1 to 40.</div>
+    <div class="result-summary" id="check-summary"></div>
+    <div class="table-wrap">
+      <table class="match-table">
+        <thead>
+          <tr><th>Matching numbers</th><th>Overlap rate</th><th>Historical draws</th><th>Example dates</th></tr>
+        </thead>
+        <tbody id="match-results">
+          <tr><td colspan="4" class="empty-cell">Enter seven numbers and select Check history.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <div class="source-note">
+    Data source: server-side NZ Lotto monthly archive collector. Results are stored locally in <code>lotto_draws.csv</code>.
+    Historical lottery draws are random; frequency analysis does not predict or improve the odds of future draws.
+  </div>
+</section>
